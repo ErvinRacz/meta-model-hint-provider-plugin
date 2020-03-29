@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<options>
-  <configurable id="fileTemplates" configurable_name="File and Code Templates">
-    <option name="groovystepdefinitionfile" hit="GroovyStepDefinitionFile" />
-    <option name="groovystepdefinitionfile1_1" hit="GroovyStepDefinitionFile1_1" />
-  </configurable>
-</options>
-

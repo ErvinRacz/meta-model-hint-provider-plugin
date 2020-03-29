@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<options>
-  <configurable id="preferences.arquillian" configurable_name="Arquillian Containers">
-    <option name="arquillian" hit="Arquillian Containers" />
-    <option name="containers" hit="Arquillian Containers" />
-  </configurable>
-</options>
-

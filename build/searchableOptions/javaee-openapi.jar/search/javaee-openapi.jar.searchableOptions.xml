@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<options>
-  <configurable id="preferences.keymap" configurable_name="Keymap">
-    <option name="" path="ActionManager" hit="" />
-    <option name="filter" path="ActionManager" hit="Filter..." />
-    <option name="servlet" path="ActionManager" hit="Servlet..." />
-  </configurable>
-</options>
-
