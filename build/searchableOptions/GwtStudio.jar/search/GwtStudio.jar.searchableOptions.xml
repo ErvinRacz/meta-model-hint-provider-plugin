@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<options>
+  <configurable id="preferences.keymap" configurable_name="Keymap">
+    <option name="" path="ActionManager" hit="" />
+    <option name="" path="ActionManager" hit="@UiHandler method..." />
+    <option name="method" path="ActionManager" hit="@UiHandler method..." />
+    <option name="uihandler" path="ActionManager" hit="@UiHandler method..." />
+    <option name="and" path="ActionManager" hit="Create GWT Event and Handler classes" />
+    <option name="classes" path="ActionManager" hit="Create GWT Event and Handler classes" />
+    <option name="create" path="ActionManager" hit="Create GWT Event and Handler classes" />
+    <option name="event" path="ActionManager" hit="Create GWT Event and Handler classes" />
+    <option name="gwt" path="ActionManager" hit="Create GWT Event and Handler classes" />
+    <option name="handler" path="ActionManager" hit="Create GWT Event and Handler classes" />
+    <option name="and" path="ActionManager" hit="Create GWT UiBinder and ui.xml file" />
+    <option name="create" path="ActionManager" hit="Create GWT UiBinder and ui.xml file" />
+    <option name="file" path="ActionManager" hit="Create GWT UiBinder and ui.xml file" />
+    <option name="gwt" path="ActionManager" hit="Create GWT UiBinder and ui.xml file" />
+    <option name="ui" path="ActionManager" hit="Create GWT UiBinder and ui.xml file" />
+    <option name="uibinder" path="ActionManager" hit="Create GWT UiBinder and ui.xml file" />
+    <option name="xml" path="ActionManager" hit="Create GWT UiBinder and ui.xml file" />
+    <option name="and" path="ActionManager" hit="Create GWT UiRenderer and ui.xml file" />
+    <option name="create" path="ActionManager" hit="Create GWT UiRenderer and ui.xml file" />
+    <option name="file" path="ActionManager" hit="Create GWT UiRenderer and ui.xml file" />
+    <option name="gwt" path="ActionManager" hit="Create GWT UiRenderer and ui.xml file" />
+    <option name="ui" path="ActionManager" hit="Create GWT UiRenderer and ui.xml file" />
+    <option name="uirenderer" path="ActionManager" hit="Create GWT UiRenderer and ui.xml file" />
+    <option name="xml" path="ActionManager" hit="Create GWT UiRenderer and ui.xml file" />
+    <option name="case" path="ActionManager" hit="Creates New GWT Test Case" />
+    <option name="creates" path="ActionManager" hit="Creates New GWT Test Case" />
+    <option name="gwt" path="ActionManager" hit="Creates New GWT Test Case" />
+    <option name="new" path="ActionManager" hit="Creates New GWT Test Case" />
+    <option name="test" path="ActionManager" hit="Creates New GWT Test Case" />
+    <option name="creates" path="ActionManager" hit="Creates new GWT EntryPoint" />
+    <option name="entrypoint" path="ActionManager" hit="Creates new GWT EntryPoint" />
+    <option name="gwt" path="ActionManager" hit="Creates new GWT EntryPoint" />
+    <option name="new" path="ActionManager" hit="Creates new GWT EntryPoint" />
+    <option name="creates" path="ActionManager" hit="Creates new GWT Module" />
+    <option name="gwt" path="ActionManager" hit="Creates new GWT Module" />
+    <option name="module" path="ActionManager" hit="Creates new GWT Module" />
+    <option name="new" path="ActionManager" hit="Creates new GWT Module" />
+    <option name="creates" path="ActionManager" hit="Creates new GWT RemoteService" />
+    <option name="gwt" path="ActionManager" hit="Creates new GWT RemoteService" />
+    <option name="new" path="ActionManager" hit="Creates new GWT RemoteService" />
+    <option name="remoteservice" path="ActionManager" hit="Creates new GWT RemoteService" />
+    <option name="class" path="ActionManager" hit="Creates new GWT-serializable class" />
+    <option name="creates" path="ActionManager" hit="Creates new GWT-serializable class" />
+    <option name="gwt-serializable" path="ActionManager" hit="Creates new GWT-serializable class" />
+    <option name="new" path="ActionManager" hit="Creates new GWT-serializable class" />
+    <option name="entrypoint" path="ActionManager" hit="GWT EntryPoint" />
+    <option name="gwt" path="ActionManager" hit="GWT EntryPoint" />
+    <option name="and" path="ActionManager" hit="GWT Event and Handler classes" />
+    <option name="classes" path="ActionManager" hit="GWT Event and Handler classes" />
+    <option name="event" path="ActionManager" hit="GWT Event and Handler classes" />
+    <option name="gwt" path="ActionManager" hit="GWT Event and Handler classes" />
+    <option name="handler" path="ActionManager" hit="GWT Event and Handler classes" />
+    <option name="gwt" path="ActionManager" hit="GWT Module" />
+    <option name="module" path="ActionManager" hit="GWT Module" />
+    <option name="gwt" path="ActionManager" hit="GWT RemoteService" />
+    <option name="remoteservice" path="ActionManager" hit="GWT RemoteService" />
+    <option name="case" path="ActionManager" hit="GWT Test Case" />
+    <option name="gwt" path="ActionManager" hit="GWT Test Case" />
+    <option name="test" path="ActionManager" hit="GWT Test Case" />
+    <option name="and" path="ActionManager" hit="GWT UiBinder and ui.xml file" />
+    <option name="file" path="ActionManager" hit="GWT UiBinder and ui.xml file" />
+    <option name="gwt" path="ActionManager" hit="GWT UiBinder and ui.xml file" />
+    <option name="ui" path="ActionManager" hit="GWT UiBinder and ui.xml file" />
+    <option name="uibinder" path="ActionManager" hit="GWT UiBinder and ui.xml file" />
+    <option name="xml" path="ActionManager" hit="GWT UiBinder and ui.xml file" />
+    <option name="and" path="ActionManager" hit="GWT UiRenderer and ui.xml File" />
+    <option name="file" path="ActionManager" hit="GWT UiRenderer and ui.xml File" />
+    <option name="gwt" path="ActionManager" hit="GWT UiRenderer and ui.xml File" />
+    <option name="ui" path="ActionManager" hit="GWT UiRenderer and ui.xml File" />
+    <option name="uirenderer" path="ActionManager" hit="GWT UiRenderer and ui.xml File" />
+    <option name="xml" path="ActionManager" hit="GWT UiRenderer and ui.xml File" />
+    <option name="compile" path="ActionManager" hit="Generate GWT Compile Report..." />
+    <option name="generate" path="ActionManager" hit="Generate GWT Compile Report..." />
+    <option name="gwt" path="ActionManager" hit="Generate GWT Compile Report..." />
+    <option name="report" path="ActionManager" hit="Generate GWT Compile Report..." />
+    <option name="google" path="ActionManager" hit="Google Web Toolkit" />
+    <option name="toolkit" path="ActionManager" hit="Google Web Toolkit" />
+    <option name="web" path="ActionManager" hit="Google Web Toolkit" />
+    <option name="class" path="ActionManager" hit="New GWT-serializable class" />
+    <option name="gwt-serializable" path="ActionManager" hit="New GWT-serializable class" />
+    <option name="new" path="ActionManager" hit="New GWT-serializable class" />
+    <option name="and" path="ActionManager" hit="Run GWT Compiler to produce the Compile Report and open the result in browser" />
+    <option name="browser" path="ActionManager" hit="Run GWT Compiler to produce the Compile Report and open the result in browser" />
+    <option name="compile" path="ActionManager" hit="Run GWT Compiler to produce the Compile Report and open the result in browser" />
+    <option name="compiler" path="ActionManager" hit="Run GWT Compiler to produce the Compile Report and open the result in browser" />
+    <option name="gwt" path="ActionManager" hit="Run GWT Compiler to produce the Compile Report and open the result in browser" />
+    <option name="in" path="ActionManager" hit="Run GWT Compiler to produce the Compile Report and open the result in browser" />
+    <option name="open" path="ActionManager" hit="Run GWT Compiler to produce the Compile Report and open the result in browser" />
+    <option name="produce" path="ActionManager" hit="Run GWT Compiler to produce the Compile Report and open the result in browser" />
+    <option name="report" path="ActionManager" hit="Run GWT Compiler to produce the Compile Report and open the result in browser" />
+    <option name="result" path="ActionManager" hit="Run GWT Compiler to produce the Compile Report and open the result in browser" />
+    <option name="run" path="ActionManager" hit="Run GWT Compiler to produce the Compile Report and open the result in browser" />
+    <option name="the" path="ActionManager" hit="Run GWT Compiler to produce the Compile Report and open the result in browser" />
+    <option name="to" path="ActionManager" hit="Run GWT Compiler to produce the Compile Report and open the result in browser" />
+  </configurable>
+</options>
+

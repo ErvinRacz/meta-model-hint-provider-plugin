@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<options>
+  <configurable id="preferences.keymap" configurable_name="Keymap">
+    <option name="client" path="ActionManager" hit="Create Web Service Client" />
+    <option name="create" path="ActionManager" hit="Create Web Service Client" />
+    <option name="service" path="ActionManager" hit="Create Web Service Client" />
+    <option name="web" path="ActionManager" hit="Create Web Service Client" />
+    <option name="create" path="ActionManager" hit="Create WebService" />
+    <option name="webservice" path="ActionManager" hit="Create WebService" />
+    <option name="creates" path="ActionManager" hit="Creates JEE WebService" />
+    <option name="jee" path="ActionManager" hit="Creates JEE WebService" />
+    <option name="webservice" path="ActionManager" hit="Creates JEE WebService" />
+    <option name="client" path="ActionManager" hit="Creates JEE WebService Client" />
+    <option name="creates" path="ActionManager" hit="Creates JEE WebService Client" />
+    <option name="jee" path="ActionManager" hit="Creates JEE WebService Client" />
+    <option name="webservice" path="ActionManager" hit="Creates JEE WebService Client" />
+    <option name="code" path="ActionManager" hit="Generate Java Code From Wsdl..." />
+    <option name="from" path="ActionManager" hit="Generate Java Code From Wsdl..." />
+    <option name="generate" path="ActionManager" hit="Generate Java Code From Wsdl..." />
+    <option name="java" path="ActionManager" hit="Generate Java Code From Wsdl..." />
+    <option name="wsdl" path="ActionManager" hit="Generate Java Code From Wsdl..." />
+    <option name="code" path="ActionManager" hit="Generate Java Code From Xml Schema using JAXB..." />
+    <option name="from" path="ActionManager" hit="Generate Java Code From Xml Schema using JAXB..." />
+    <option name="generate" path="ActionManager" hit="Generate Java Code From Xml Schema using JAXB..." />
+    <option name="java" path="ActionManager" hit="Generate Java Code From Xml Schema using JAXB..." />
+    <option name="jaxb" path="ActionManager" hit="Generate Java Code From Xml Schema using JAXB..." />
+    <option name="schema" path="ActionManager" hit="Generate Java Code From Xml Schema using JAXB..." />
+    <option name="using" path="ActionManager" hit="Generate Java Code From Xml Schema using JAXB..." />
+    <option name="xml" path="ActionManager" hit="Generate Java Code From Xml Schema using JAXB..." />
+    <option name="code" path="ActionManager" hit="Generate Java Code From Xml Schema using XmlBeans..." />
+    <option name="from" path="ActionManager" hit="Generate Java Code From Xml Schema using XmlBeans..." />
+    <option name="generate" path="ActionManager" hit="Generate Java Code From Xml Schema using XmlBeans..." />
+    <option name="java" path="ActionManager" hit="Generate Java Code From Xml Schema using XmlBeans..." />
+    <option name="schema" path="ActionManager" hit="Generate Java Code From Xml Schema using XmlBeans..." />
+    <option name="using" path="ActionManager" hit="Generate Java Code From Xml Schema using XmlBeans..." />
+    <option name="xml" path="ActionManager" hit="Generate Java Code From Xml Schema using XmlBeans..." />
+    <option name="xmlbeans" path="ActionManager" hit="Generate Java Code From Xml Schema using XmlBeans..." />
+    <option name="code" path="ActionManager" hit="Generate Wsdl From Java Code..." />
+    <option name="from" path="ActionManager" hit="Generate Wsdl From Java Code..." />
+    <option name="generate" path="ActionManager" hit="Generate Wsdl From Java Code..." />
+    <option name="java" path="ActionManager" hit="Generate Wsdl From Java Code..." />
+    <option name="wsdl" path="ActionManager" hit="Generate Wsdl From Java Code..." />
+    <option name="from" path="ActionManager" hit="Generate Xml Schema from Java using JAXB..." />
+    <option name="generate" path="ActionManager" hit="Generate Xml Schema from Java using JAXB..." />
+    <option name="java" path="ActionManager" hit="Generate Xml Schema from Java using JAXB..." />
+    <option name="jaxb" path="ActionManager" hit="Generate Xml Schema from Java using JAXB..." />
+    <option name="schema" path="ActionManager" hit="Generate Xml Schema from Java using JAXB..." />
+    <option name="using" path="ActionManager" hit="Generate Xml Schema from Java using JAXB..." />
+    <option name="xml" path="ActionManager" hit="Generate Xml Schema from Java using JAXB..." />
+    <option name="messages" path="ActionManager" hit="Monitor SOAP Messages" />
+    <option name="monitor" path="ActionManager" hit="Monitor SOAP Messages" />
+    <option name="soap" path="ActionManager" hit="Monitor SOAP Messages" />
+    <option name="deployed" path="ActionManager" hit="Show Deployed Web Services" />
+    <option name="services" path="ActionManager" hit="Show Deployed Web Services" />
+    <option name="show" path="ActionManager" hit="Show Deployed Web Services" />
+    <option name="web" path="ActionManager" hit="Show Deployed Web Services" />
+  </configurable>
+  <configurable id="fileTemplates" configurable_name="File and Code Templates">
+    <option name="cxf" hit="cxf.webservice" />
+    <option name="webservice" hit="cxf.webservice" />
+    <option name="cxf" hit="cxf.webservice.interface" />
+    <option name="interface" hit="cxf.webservice.interface" />
+    <option name="webservice" hit="cxf.webservice.interface" />
+    <option name="client" hit="default.webservice.client" />
+    <option name="default" hit="default.webservice.client" />
+    <option name="webservice" hit="default.webservice.client" />
+    <option name="j2ee1_4" hit="j2ee1_4.webservice" />
+    <option name="webservice" hit="j2ee1_4.webservice" />
+    <option name="interface" hit="j2ee1_4.webservice.interface" />
+    <option name="j2ee1_4" hit="j2ee1_4.webservice.interface" />
+    <option name="webservice" hit="j2ee1_4.webservice.interface" />
+    <option name="jaxws" hit="jaxws.webservice" />
+    <option name="webservice" hit="jaxws.webservice" />
+    <option name="pojo" hit="pojo.webservice" />
+    <option name="webservice" hit="pojo.webservice" />
+  </configurable>
+  <configurable id="reference.settings.ide.settings.webservices" configurable_name="Web Services">
+    <option name="2" hit="Apache Axis 2" />
+    <option name="apache" hit="Apache Axis 2" />
+    <option name="axis" hit="Apache Axis 2" />
+    <option name="cxf" hit="CXF" />
+    <option name="engines" hit="External engines:" />
+    <option name="external" hit="External engines:" />
+    <option name="1" hit="Glassfish / JAX-WS 2.2 RI / Metro 1.X / JWSDP 2.2" />
+    <option name="2" hit="Glassfish / JAX-WS 2.2 RI / Metro 1.X / JWSDP 2.2" />
+    <option name="glassfish" hit="Glassfish / JAX-WS 2.2 RI / Metro 1.X / JWSDP 2.2" />
+    <option name="jax-ws" hit="Glassfish / JAX-WS 2.2 RI / Metro 1.X / JWSDP 2.2" />
+    <option name="jwsdp" hit="Glassfish / JAX-WS 2.2 RI / Metro 1.X / JWSDP 2.2" />
+    <option name="metro" hit="Glassfish / JAX-WS 2.2 RI / Metro 1.X / JWSDP 2.2" />
+    <option name="ri" hit="Glassfish / JAX-WS 2.2 RI / Metro 1.X / JWSDP 2.2" />
+    <option name="x" hit="Glassfish / JAX-WS 2.2 RI / Metro 1.X / JWSDP 2.2" />
+    <option name="jboss" hit="JBoss" />
+    <option name="heap" hit="Maximum VM heap size when launching tools (Mb):" />
+    <option name="launching" hit="Maximum VM heap size when launching tools (Mb):" />
+    <option name="maximum" hit="Maximum VM heap size when launching tools (Mb):" />
+    <option name="mb" hit="Maximum VM heap size when launching tools (Mb):" />
+    <option name="size" hit="Maximum VM heap size when launching tools (Mb):" />
+    <option name="tools" hit="Maximum VM heap size when launching tools (Mb):" />
+    <option name="vm" hit="Maximum VM heap size when launching tools (Mb):" />
+    <option name="when" hit="Maximum VM heap size when launching tools (Mb):" />
+    <option name="for" hit="Prefix path for web services URL:" />
+    <option name="path" hit="Prefix path for web services URL:" />
+    <option name="prefix" hit="Prefix path for web services URL:" />
+    <option name="services" hit="Prefix path for web services URL:" />
+    <option name="url" hit="Prefix path for web services URL:" />
+    <option name="web" hit="Prefix path for web services URL:" />
+    <option name="name" hit="Server name:" />
+    <option name="server" hit="Server name:" />
+    <option name="port" hit="Server port:" />
+    <option name="server" hit="Server port:" />
+    <option name="services" hit="Web Services" />
+    <option name="web" hit="Web Services" />
+    <option name="6" hit="WebSphere 6.X" />
+    <option name="websphere" hit="WebSphere 6.X" />
+    <option name="x" hit="WebSphere 6.X" />
+    <option name="beans" hit="Xml Beans" />
+    <option name="xml" hit="Xml Beans" />
+  </configurable>
+</options>
+

@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<options>
+  <configurable id="preferences.keymap" configurable_name="Keymap">
+    <option name="configure" path="ActionManager" hit="Configure Grails SDK" />
+    <option name="grails" path="ActionManager" hit="Configure Grails SDK" />
+    <option name="sdk" path="ActionManager" hit="Configure Grails SDK" />
+    <option name="controller" path="ActionManager" hit="Create Controller" />
+    <option name="create" path="ActionManager" hit="Create Controller" />
+    <option name="create" path="ActionManager" hit="Create Domain" />
+    <option name="domain" path="ActionManager" hit="Create Domain" />
+    <option name="create" path="ActionManager" hit="Create Filter" />
+    <option name="filter" path="ActionManager" hit="Create Filter" />
+    <option name="create" path="ActionManager" hit="Create Interceptor" />
+    <option name="interceptor" path="ActionManager" hit="Create Interceptor" />
+    <option name="create" path="ActionManager" hit="Create Script" />
+    <option name="script" path="ActionManager" hit="Create Script" />
+    <option name="create" path="ActionManager" hit="Create Service" />
+    <option name="service" path="ActionManager" hit="Create Service" />
+    <option name="create" path="ActionManager" hit="Create Taglib" />
+    <option name="taglib" path="ActionManager" hit="Create Taglib" />
+    <option name="class" path="ActionManager" hit="Create new Grails controller class" />
+    <option name="controller" path="ActionManager" hit="Create new Grails controller class" />
+    <option name="create" path="ActionManager" hit="Create new Grails controller class" />
+    <option name="grails" path="ActionManager" hit="Create new Grails controller class" />
+    <option name="new" path="ActionManager" hit="Create new Grails controller class" />
+    <option name="class" path="ActionManager" hit="Create new Grails domain class" />
+    <option name="create" path="ActionManager" hit="Create new Grails domain class" />
+    <option name="domain" path="ActionManager" hit="Create new Grails domain class" />
+    <option name="grails" path="ActionManager" hit="Create new Grails domain class" />
+    <option name="new" path="ActionManager" hit="Create new Grails domain class" />
+    <option name="class" path="ActionManager" hit="Create new Grails filter class" />
+    <option name="create" path="ActionManager" hit="Create new Grails filter class" />
+    <option name="filter" path="ActionManager" hit="Create new Grails filter class" />
+    <option name="grails" path="ActionManager" hit="Create new Grails filter class" />
+    <option name="new" path="ActionManager" hit="Create new Grails filter class" />
+    <option name="class" path="ActionManager" hit="Create new Grails interceptor class" />
+    <option name="create" path="ActionManager" hit="Create new Grails interceptor class" />
+    <option name="grails" path="ActionManager" hit="Create new Grails interceptor class" />
+    <option name="interceptor" path="ActionManager" hit="Create new Grails interceptor class" />
+    <option name="new" path="ActionManager" hit="Create new Grails interceptor class" />
+    <option name="create" path="ActionManager" hit="Create new Grails script" />
+    <option name="grails" path="ActionManager" hit="Create new Grails script" />
+    <option name="new" path="ActionManager" hit="Create new Grails script" />
+    <option name="script" path="ActionManager" hit="Create new Grails script" />
+    <option name="class" path="ActionManager" hit="Create new Grails service class" />
+    <option name="create" path="ActionManager" hit="Create new Grails service class" />
+    <option name="grails" path="ActionManager" hit="Create new Grails service class" />
+    <option name="new" path="ActionManager" hit="Create new Grails service class" />
+    <option name="service" path="ActionManager" hit="Create new Grails service class" />
+    <option name="create" path="ActionManager" hit="Create new Grails tag library" />
+    <option name="grails" path="ActionManager" hit="Create new Grails tag library" />
+    <option name="library" path="ActionManager" hit="Create new Grails tag library" />
+    <option name="new" path="ActionManager" hit="Create new Grails tag library" />
+    <option name="tag" path="ActionManager" hit="Create new Grails tag library" />
+    <option name="creates" path="ActionManager" hit="Creates new Groovy Server Page" />
+    <option name="groovy" path="ActionManager" hit="Creates new Groovy Server Page" />
+    <option name="new" path="ActionManager" hit="Creates new Groovy Server Page" />
+    <option name="page" path="ActionManager" hit="Creates new Groovy Server Page" />
+    <option name="server" path="ActionManager" hit="Creates new Groovy Server Page" />
+    <option name="gsp" path="ActionManager" hit="GSP" />
+    <option name="archive" path="ActionManager" hit="Generate Web Archive" />
+    <option name="generate" path="ActionManager" hit="Generate Web Archive" />
+    <option name="web" path="ActionManager" hit="Generate Web Archive" />
+    <option name="controller" path="ActionManager" hit="Go To Controller" />
+    <option name="go" path="ActionManager" hit="Go To Controller" />
+    <option name="to" path="ActionManager" hit="Go To Controller" />
+    <option name="domain" path="ActionManager" hit="Go To Domain" />
+    <option name="go" path="ActionManager" hit="Go To Domain" />
+    <option name="to" path="ActionManager" hit="Go To Domain" />
+    <option name="go" path="ActionManager" hit="Go To Service" />
+    <option name="service" path="ActionManager" hit="Go To Service" />
+    <option name="to" path="ActionManager" hit="Go To Service" />
+    <option name="go" path="ActionManager" hit="Go To Test" />
+    <option name="test" path="ActionManager" hit="Go To Test" />
+    <option name="to" path="ActionManager" hit="Go To Test" />
+    <option name="go" path="ActionManager" hit="Go To View" />
+    <option name="to" path="ActionManager" hit="Go To View" />
+    <option name="view" path="ActionManager" hit="Go To View" />
+    <option name="grails" path="ActionManager" hit="Grails" />
+    <option name="editor" path="ActionManager" hit="Grails Editor Toolbar" />
+    <option name="grails" path="ActionManager" hit="Grails Editor Toolbar" />
+    <option name="toolbar" path="ActionManager" hit="Grails Editor Toolbar" />
+    <option name="archive" path="ActionManager" hit="Make Grails Web Archive" />
+    <option name="grails" path="ActionManager" hit="Make Grails Web Archive" />
+    <option name="make" path="ActionManager" hit="Make Grails Web Archive" />
+    <option name="web" path="ActionManager" hit="Make Grails Web Archive" />
+    <option name="from" path="ActionManager" hit="Manage plugins from UI" />
+    <option name="manage" path="ActionManager" hit="Manage plugins from UI" />
+    <option name="plugins" path="ActionManager" hit="Manage plugins from UI" />
+    <option name="ui" path="ActionManager" hit="Manage plugins from UI" />
+    <option name="plugins" path="ActionManager" hit="Plugins" />
+    <option name="build" path="ActionManager" hit="Refresh IntelliJ IDEA project structure so that it matches Grails build settings" />
+    <option name="grails" path="ActionManager" hit="Refresh IntelliJ IDEA project structure so that it matches Grails build settings" />
+    <option name="idea" path="ActionManager" hit="Refresh IntelliJ IDEA project structure so that it matches Grails build settings" />
+    <option name="intellij" path="ActionManager" hit="Refresh IntelliJ IDEA project structure so that it matches Grails build settings" />
+    <option name="it" path="ActionManager" hit="Refresh IntelliJ IDEA project structure so that it matches Grails build settings" />
+    <option name="matches" path="ActionManager" hit="Refresh IntelliJ IDEA project structure so that it matches Grails build settings" />
+    <option name="project" path="ActionManager" hit="Refresh IntelliJ IDEA project structure so that it matches Grails build settings" />
+    <option name="refresh" path="ActionManager" hit="Refresh IntelliJ IDEA project structure so that it matches Grails build settings" />
+    <option name="settings" path="ActionManager" hit="Refresh IntelliJ IDEA project structure so that it matches Grails build settings" />
+    <option name="so" path="ActionManager" hit="Refresh IntelliJ IDEA project structure so that it matches Grails build settings" />
+    <option name="structure" path="ActionManager" hit="Refresh IntelliJ IDEA project structure so that it matches Grails build settings" />
+    <option name="that" path="ActionManager" hit="Refresh IntelliJ IDEA project structure so that it matches Grails build settings" />
+    <option name="grails" path="ActionManager" hit="Synchronize Grails settings" />
+    <option name="settings" path="ActionManager" hit="Synchronize Grails settings" />
+    <option name="synchronize" path="ActionManager" hit="Synchronize Grails settings" />
+    <option name="view" path="ActionManager" hit="View" />
+  </configurable>
+  <configurable id="preferences.sourceCode.GSP" configurable_name="GSP">
+    <option name="continuation" path="Tabs and Indents" hit="Continuation indent:" />
+    <option name="indent" path="Tabs and Indents" hit="Continuation indent:" />
+    <option name="disable" hit="Disable" />
+    <option name="gsp" hit="GSP" />
+    <option name="indent" path="Tabs and Indents" hit="Indent:" />
+    <option name="empty" path="Tabs and Indents" hit="Keep indents on empty lines" />
+    <option name="indents" path="Tabs and Indents" hit="Keep indents on empty lines" />
+    <option name="keep" path="Tabs and Indents" hit="Keep indents on empty lines" />
+    <option name="lines" path="Tabs and Indents" hit="Keep indents on empty lines" />
+    <option name="on" path="Tabs and Indents" hit="Keep indents on empty lines" />
+    <option name="loading" hit="Loading..." />
+    <option name="scheme" hit="Scheme:" />
+    <option name="from" hit="Set from..." />
+    <option name="set" hit="Set from..." />
+    <option name="smart" path="Tabs and Indents" hit="Smart tabs" />
+    <option name="tabs" path="Tabs and Indents" hit="Smart tabs" />
+    <option name="size" path="Tabs and Indents" hit="Tab size:" />
+    <option name="tab" path="Tabs and Indents" hit="Tab size:" />
+    <option name="and" path="Tabs and Indents" hit="Tabs and Indents" />
+    <option name="indents" path="Tabs and Indents" hit="Tabs and Indents" />
+    <option name="tabs" path="Tabs and Indents" hit="Tabs and Indents" />
+    <option name="character" path="Tabs and Indents" hit="Use tab character" />
+    <option name="tab" path="Tabs and Indents" hit="Use tab character" />
+    <option name="use" path="Tabs and Indents" hit="Use tab character" />
+  </configurable>
+  <configurable id="fileTemplates" configurable_name="File and Code Templates">
+    <option name="expression" hit="I18nized GSP Expression" />
+    <option name="gsp" hit="I18nized GSP Expression" />
+    <option name="i18nized" hit="I18nized GSP Expression" />
+    <option name="expression" hit="I18nized GSP Expression with injections" />
+    <option name="gsp" hit="I18nized GSP Expression with injections" />
+    <option name="i18nized" hit="I18nized GSP Expression with injections" />
+    <option name="injections" hit="I18nized GSP Expression with injections" />
+    <option name="with" hit="I18nized GSP Expression with injections" />
+    <option name="groovy" hit="I18nized Groovy string" />
+    <option name="i18nized" hit="I18nized Groovy string" />
+    <option name="string" hit="I18nized Groovy string" />
+    <option name="groovy" hit="I18nized Groovy string with injections" />
+    <option name="i18nized" hit="I18nized Groovy string with injections" />
+    <option name="injections" hit="I18nized Groovy string with injections" />
+    <option name="string" hit="I18nized Groovy string with injections" />
+    <option name="with" hit="I18nized Groovy string with injections" />
+  </configurable>
+  <configurable id="copyright.filetypes.GSP" configurable_name="GSP">
+    <option name="add" hit="Add blank line after" />
+    <option name="after" hit="Add blank line after" />
+    <option name="blank" hit="Add blank line after" />
+    <option name="line" hit="Add blank line after" />
+    <option name="after" hit="After other comments" />
+    <option name="comments" hit="After other comments" />
+    <option name="other" hit="After other comments" />
+    <option name="before" hit="Before other comments" />
+    <option name="comments" hit="Before other comments" />
+    <option name="other" hit="Before other comments" />
+    <option name="borders" hit="Borders" />
+    <option name="box" hit="Box" />
+    <option name="comment" hit="Comment Type" />
+    <option name="type" hit="Comment Type" />
+    <option name="gsp" hit="GSP" />
+    <option name="length" hit="Length:" />
+    <option name="copyright" hit="No copyright" />
+    <option name="no" hit="No copyright" />
+    <option name="each" hit="Prefix each line" />
+    <option name="line" hit="Prefix each line" />
+    <option name="prefix" hit="Prefix each line" />
+    <option name="location" hit="Relative Location" />
+    <option name="relative" hit="Relative Location" />
+    <option name="after" hit="Separator after" />
+    <option name="separator" hit="Separator after" />
+    <option name="before" hit="Separator before" />
+    <option name="separator" hit="Separator before" />
+    <option name="separator" hit="Separator:" />
+    <option name="block" hit="Use block comment" />
+    <option name="comment" hit="Use block comment" />
+    <option name="use" hit="Use block comment" />
+    <option name="custom" hit="Use custom formatting options" />
+    <option name="formatting" hit="Use custom formatting options" />
+    <option name="options" hit="Use custom formatting options" />
+    <option name="use" hit="Use custom formatting options" />
+    <option name="default" hit="Use default settings" />
+    <option name="settings" hit="Use default settings" />
+    <option name="use" hit="Use default settings" />
+    <option name="comment" hit="Use line comment" />
+    <option name="line" hit="Use line comment" />
+    <option name="use" hit="Use line comment" />
+  </configurable>
+</options>
+

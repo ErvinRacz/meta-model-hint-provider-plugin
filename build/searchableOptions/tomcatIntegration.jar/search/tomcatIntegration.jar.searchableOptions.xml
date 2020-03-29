@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<options>
+  <configurable id="fileTemplates" configurable_name="File and Code Templates">
+    <option name="context_5_0" hit="context_5_0" />
+  </configurable>
+</options>
+

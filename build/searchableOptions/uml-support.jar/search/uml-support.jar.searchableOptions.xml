@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<options>
+  <configurable id="preferences.keymap" configurable_name="Keymap">
+    <option name="all" path="ActionManager" hit="Deselect All" />
+    <option name="deselect" path="ActionManager" hit="Deselect All" />
+    <option name="diagram" path="ActionManager" hit="Find Elements Diagram" />
+    <option name="elements" path="ActionManager" hit="Find Elements Diagram" />
+    <option name="find" path="ActionManager" hit="Find Elements Diagram" />
+    <option name="class" path="ActionManager" hit="Java Class Diagram" />
+    <option name="diagram" path="ActionManager" hit="Java Class Diagram" />
+    <option name="java" path="ActionManager" hit="Java Class Diagram" />
+    <option name="diagram" path="ActionManager" hit="Java Module Diagram" />
+    <option name="java" path="ActionManager" hit="Java Module Diagram" />
+    <option name="module" path="ActionManager" hit="Java Module Diagram" />
+    <option name="dependencies" path="ActionManager" hit="Module Dependencies Diagram" />
+    <option name="diagram" path="ActionManager" hit="Module Dependencies Diagram" />
+    <option name="module" path="ActionManager" hit="Module Dependencies Diagram" />
+    <option name="new" path="ActionManager" hit="New" />
+    <option name="diagram" path="ActionManager" hit="Save UML Diagram" />
+    <option name="save" path="ActionManager" hit="Save UML Diagram" />
+    <option name="uml" path="ActionManager" hit="Save UML Diagram" />
+    <option name="all" path="ActionManager" hit="Select All" />
+    <option name="select" path="ActionManager" hit="Select All" />
+    <option name="as" path="ActionManager" hit="Show Diff as UML" />
+    <option name="diff" path="ActionManager" hit="Show Diff as UML" />
+    <option name="show" path="ActionManager" hit="Show Diff as UML" />
+    <option name="uml" path="ActionManager" hit="Show Diff as UML" />
+    <option name="as" path="ActionManager" hit="Show Local Changes as UML" />
+    <option name="changes" path="ActionManager" hit="Show Local Changes as UML" />
+    <option name="local" path="ActionManager" hit="Show Local Changes as UML" />
+    <option name="show" path="ActionManager" hit="Show Local Changes as UML" />
+    <option name="uml" path="ActionManager" hit="Show Local Changes as UML" />
+    <option name="diagram" path="ActionManager" hit="Show UML Diagram" />
+    <option name="show" path="ActionManager" hit="Show UML Diagram" />
+    <option name="uml" path="ActionManager" hit="Show UML Diagram" />
+    <option name="popup" path="ActionManager" hit="Show UML Popup" />
+    <option name="show" path="ActionManager" hit="Show UML Popup" />
+    <option name="uml" path="ActionManager" hit="Show UML Popup" />
+    <option name="structure" path="ActionManager" hit="View Structure" />
+    <option name="view" path="ActionManager" hit="View Structure" />
+  </configurable>
+  <configurable id="reference.settings.ide.settings.uml" configurable_name="Diagrams">
+    <option name="all" hit="All" />
+    <option name="balloon" hit="Balloon" />
+    <option name="circular" hit="Circular" />
+    <option name="default" hit="Default Layout:" />
+    <option name="layout" hit="Default Layout:" />
+    <option name="default" hit="Default Scope:" />
+    <option name="scope" hit="Default Scope:" />
+    <option name="diagrams" hit="Diagrams" />
+    <option name="directed" hit="Directed Orthogonal" />
+    <option name="orthogonal" hit="Directed Orthogonal" />
+    <option name="added" hit="Do relayout when new elements were added" />
+    <option name="do" hit="Do relayout when new elements were added" />
+    <option name="elements" hit="Do relayout when new elements were added" />
+    <option name="new" hit="Do relayout when new elements were added" />
+    <option name="relayout" hit="Do relayout when new elements were added" />
+    <option name="were" hit="Do relayout when new elements were added" />
+    <option name="when" hit="Do relayout when new elements were added" />
+    <option name="after" hit="Fit content after layout" />
+    <option name="content" hit="Fit content after layout" />
+    <option name="fit" hit="Fit content after layout" />
+    <option name="layout" hit="Fit content after layout" />
+    <option name="group" hit="Hierarchic Group" />
+    <option name="hierarchic" hit="Hierarchic Group" />
+    <option name="files" hit="Non-Project Files" />
+    <option name="non-project" hit="Non-Project Files" />
+    <option name="organic" hit="Organic" />
+    <option name="orthogonal" hit="Orthogonal" />
+    <option name="production" hit="Production" />
+    <option name="files" hit="Project Files" />
+    <option name="project" hit="Project Files" />
+    <option name="appears" hit="Select categories that will be enabled by default every time diagram appears" />
+    <option name="be" hit="Select categories that will be enabled by default every time diagram appears" />
+    <option name="by" hit="Select categories that will be enabled by default every time diagram appears" />
+    <option name="categories" hit="Select categories that will be enabled by default every time diagram appears" />
+    <option name="default" hit="Select categories that will be enabled by default every time diagram appears" />
+    <option name="diagram" hit="Select categories that will be enabled by default every time diagram appears" />
+    <option name="enabled" hit="Select categories that will be enabled by default every time diagram appears" />
+    <option name="every" hit="Select categories that will be enabled by default every time diagram appears" />
+    <option name="select" hit="Select categories that will be enabled by default every time diagram appears" />
+    <option name="that" hit="Select categories that will be enabled by default every time diagram appears" />
+    <option name="time" hit="Select categories that will be enabled by default every time diagram appears" />
+    <option name="will" hit="Select categories that will be enabled by default every time diagram appears" />
+    <option name="tests" hit="Tests" />
+    <option name="tree" hit="Tree" />
+  </configurable>
+</options>
+

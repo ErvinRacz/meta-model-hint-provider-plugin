@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<options>
+  <configurable id="preferences.keymap" configurable_name="Keymap">
+    <option name="aspect" path="ActionManager" hit="Aspect" />
+    <option name="aspect" path="ActionManager" hit="Create new aspect" />
+    <option name="create" path="ActionManager" hit="Create new aspect" />
+    <option name="new" path="ActionManager" hit="Create new aspect" />
+    <option name="in" path="ActionManager" hit="Push ITDs In..." />
+    <option name="itds" path="ActionManager" hit="Push ITDs In..." />
+    <option name="push" path="ActionManager" hit="Push ITDs In..." />
+    <option name="classes" path="ActionManager" hit="Push inter-type declarations in their target classes" />
+    <option name="declarations" path="ActionManager" hit="Push inter-type declarations in their target classes" />
+    <option name="in" path="ActionManager" hit="Push inter-type declarations in their target classes" />
+    <option name="inter-type" path="ActionManager" hit="Push inter-type declarations in their target classes" />
+    <option name="push" path="ActionManager" hit="Push inter-type declarations in their target classes" />
+    <option name="target" path="ActionManager" hit="Push inter-type declarations in their target classes" />
+    <option name="their" path="ActionManager" hit="Push inter-type declarations in their target classes" />
+  </configurable>
+  <configurable id="copyright.filetypes.AspectJ" configurable_name="AspectJ">
+    <option name="add" hit="Add blank line after" />
+    <option name="after" hit="Add blank line after" />
+    <option name="blank" hit="Add blank line after" />
+    <option name="line" hit="Add blank line after" />
+    <option name="after" hit="After other comments" />
+    <option name="comments" hit="After other comments" />
+    <option name="other" hit="After other comments" />
+    <option name="aspectj" hit="AspectJ" />
+    <option name="before" hit="Before other comments" />
+    <option name="comments" hit="Before other comments" />
+    <option name="other" hit="Before other comments" />
+    <option name="borders" hit="Borders" />
+    <option name="box" hit="Box" />
+    <option name="comment" hit="Comment Type" />
+    <option name="type" hit="Comment Type" />
+    <option name="length" hit="Length:" />
+    <option name="copyright" hit="No copyright" />
+    <option name="no" hit="No copyright" />
+    <option name="each" hit="Prefix each line" />
+    <option name="line" hit="Prefix each line" />
+    <option name="prefix" hit="Prefix each line" />
+    <option name="location" hit="Relative Location" />
+    <option name="relative" hit="Relative Location" />
+    <option name="after" hit="Separator after" />
+    <option name="separator" hit="Separator after" />
+    <option name="before" hit="Separator before" />
+    <option name="separator" hit="Separator before" />
+    <option name="separator" hit="Separator:" />
+    <option name="block" hit="Use block comment" />
+    <option name="comment" hit="Use block comment" />
+    <option name="use" hit="Use block comment" />
+    <option name="custom" hit="Use custom formatting options" />
+    <option name="formatting" hit="Use custom formatting options" />
+    <option name="options" hit="Use custom formatting options" />
+    <option name="use" hit="Use custom formatting options" />
+    <option name="default" hit="Use default settings" />
+    <option name="settings" hit="Use default settings" />
+    <option name="use" hit="Use default settings" />
+    <option name="comment" hit="Use line comment" />
+    <option name="line" hit="Use line comment" />
+    <option name="use" hit="Use line comment" />
+  </configurable>
+  <configurable id="reference.projectsettings.compiler.javacompiler" configurable_name="Java Compiler">
+    <option name="ajc" hit="Ajc Options" />
+    <option name="options" hit="Ajc Options" />
+    <option name="command" hit="Command line parameters:" />
+    <option name="line" hit="Command line parameters:" />
+    <option name="parameters" hit="Command line parameters:" />
+    <option name="delegate" hit="Delegate to Javac" />
+    <option name="javac" hit="Delegate to Javac" />
+    <option name="to" hit="Delegate to Javac" />
+    <option name="annotation" hit="Enable annotation processing options" />
+    <option name="enable" hit="Enable annotation processing options" />
+    <option name="options" hit="Enable annotation processing options" />
+    <option name="processing" hit="Enable annotation processing options" />
+    <option name="debug" hit="Generate debug info" />
+    <option name="generate" hit="Generate debug info" />
+    <option name="info" hit="Generate debug info" />
+    <option name="aspectjtools" hit="Path to aspectjtools.jar:" />
+    <option name="jar" hit="Path to aspectjtools.jar:" />
+    <option name="path" hit="Path to aspectjtools.jar:" />
+    <option name="to" hit="Path to aspectjtools.jar:" />
+    <option name="test" hit="Test" />
+  </configurable>
+</options>
+

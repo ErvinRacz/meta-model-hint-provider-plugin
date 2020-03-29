@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<options>
+  <configurable id="preferences.keymap" configurable_name="Keymap">
+    <option name="projects" path="ActionManager" hit="Reimport Projects" />
+    <option name="reimport" path="ActionManager" hit="Reimport Projects" />
+    <option name="reimport" path="ActionManager" hit="Reimport Workspace" />
+    <option name="workspace" path="ActionManager" hit="Reimport Workspace" />
+    <option name="bnd" path="ActionManager" hit="Reimport entire Bnd/Bndtools workspace" />
+    <option name="bndtools" path="ActionManager" hit="Reimport entire Bnd/Bndtools workspace" />
+    <option name="entire" path="ActionManager" hit="Reimport entire Bnd/Bndtools workspace" />
+    <option name="reimport" path="ActionManager" hit="Reimport entire Bnd/Bndtools workspace" />
+    <option name="workspace" path="ActionManager" hit="Reimport entire Bnd/Bndtools workspace" />
+    <option name="bnd" path="ActionManager" hit="Reimport selected Bnd/Bndtools projects" />
+    <option name="bndtools" path="ActionManager" hit="Reimport selected Bnd/Bndtools projects" />
+    <option name="projects" path="ActionManager" hit="Reimport selected Bnd/Bndtools projects" />
+    <option name="reimport" path="ActionManager" hit="Reimport selected Bnd/Bndtools projects" />
+    <option name="selected" path="ActionManager" hit="Reimport selected Bnd/Bndtools projects" />
+    <option name="bndrun" path="ActionManager" hit="Resolve .bndrun" />
+    <option name="resolve" path="ActionManager" hit="Resolve .bndrun" />
+    <option name="-runbundles" path="ActionManager" hit="Resolves requirements and updates '-runbundles' directive" />
+    <option name="and" path="ActionManager" hit="Resolves requirements and updates '-runbundles' directive" />
+    <option name="directive" path="ActionManager" hit="Resolves requirements and updates '-runbundles' directive" />
+    <option name="requirements" path="ActionManager" hit="Resolves requirements and updates '-runbundles' directive" />
+    <option name="resolves" path="ActionManager" hit="Resolves requirements and updates '-runbundles' directive" />
+    <option name="updates" path="ActionManager" hit="Resolves requirements and updates '-runbundles' directive" />
+    <option name="generated" path="ActionManager" hit="View Generated Manifest" />
+    <option name="manifest" path="ActionManager" hit="View Generated Manifest" />
+    <option name="view" path="ActionManager" hit="View Generated Manifest" />
+    <option name="a" path="ActionManager" hit="View the manifest of a recently generated OSGi bundle" />
+    <option name="bundle" path="ActionManager" hit="View the manifest of a recently generated OSGi bundle" />
+    <option name="generated" path="ActionManager" hit="View the manifest of a recently generated OSGi bundle" />
+    <option name="manifest" path="ActionManager" hit="View the manifest of a recently generated OSGi bundle" />
+    <option name="of" path="ActionManager" hit="View the manifest of a recently generated OSGi bundle" />
+    <option name="osgi" path="ActionManager" hit="View the manifest of a recently generated OSGi bundle" />
+    <option name="recently" path="ActionManager" hit="View the manifest of a recently generated OSGi bundle" />
+    <option name="the" path="ActionManager" hit="View the manifest of a recently generated OSGi bundle" />
+    <option name="view" path="ActionManager" hit="View the manifest of a recently generated OSGi bundle" />
+  </configurable>
+  <configurable id="reference.settingsdialog.IDE.editor.colors.OSGi Manifest" configurable_name="OSGi Manifest">
+    <option name="manifest" hit="OSGi Manifest" />
+    <option name="osgi" hit="OSGi Manifest" />
+    <option name="assignment" hit="Attribute assignment" />
+    <option name="attribute" hit="Attribute assignment" />
+    <option name="attribute" hit="Attribute name" />
+    <option name="name" hit="Attribute name" />
+    <option name="attribute" hit="Attribute value" />
+    <option name="value" hit="Attribute value" />
+    <option name="clause" hit="Clause separator" />
+    <option name="separator" hit="Clause separator" />
+    <option name="assignment" hit="Directive assignment" />
+    <option name="directive" hit="Directive assignment" />
+    <option name="directive" hit="Directive name" />
+    <option name="name" hit="Directive name" />
+    <option name="directive" hit="Directive value" />
+    <option name="value" hit="Directive value" />
+    <option name="assignment" hit="Header assignment" />
+    <option name="header" hit="Header assignment" />
+    <option name="header" hit="Header name" />
+    <option name="name" hit="Header name" />
+    <option name="header" hit="Header value" />
+    <option name="value" hit="Header value" />
+    <option name="parameter" hit="Parameter separator" />
+    <option name="separator" hit="Parameter separator" />
+  </configurable>
+  <configurable id="reference.settings.project.osgi.project.settings" configurable_name="OSGi">
+    <option name="all" hit="Apply  to all facets" />
+    <option name="apply" hit="Apply  to all facets" />
+    <option name="facets" hit="Apply  to all facets" />
+    <option name="to" hit="Apply  to all facets" />
+    <option name="all" hit="Common output path for all compiled bundles" />
+    <option name="bundles" hit="Common output path for all compiled bundles" />
+    <option name="common" hit="Common output path for all compiled bundles" />
+    <option name="compiled" hit="Common output path for all compiled bundles" />
+    <option name="for" hit="Common output path for all compiled bundles" />
+    <option name="output" hit="Common output path for all compiled bundles" />
+    <option name="path" hit="Common output path for all compiled bundles" />
+    <option name="a" hit="Default manifest file location (relative to a module's content root)" />
+    <option name="content" hit="Default manifest file location (relative to a module's content root)" />
+    <option name="default" hit="Default manifest file location (relative to a module's content root)" />
+    <option name="file" hit="Default manifest file location (relative to a module's content root)" />
+    <option name="location" hit="Default manifest file location (relative to a module's content root)" />
+    <option name="manifest" hit="Default manifest file location (relative to a module's content root)" />
+    <option name="module" hit="Default manifest file location (relative to a module's content root)" />
+    <option name="relative" hit="Default manifest file location (relative to a module's content root)" />
+    <option name="root" hit="Default manifest file location (relative to a module's content root)" />
+    <option name="s" hit="Default manifest file location (relative to a module's content root)" />
+    <option name="to" hit="Default manifest file location (relative to a module's content root)" />
+    <option name="default" hit="Default manifest:" />
+    <option name="manifest" hit="Default manifest:" />
+    <option name="automatically" hit="Import Bnd/Bndtools projects automatically" />
+    <option name="bnd" hit="Import Bnd/Bndtools projects automatically" />
+    <option name="bndtools" hit="Import Bnd/Bndtools projects automatically" />
+    <option name="import" hit="Import Bnd/Bndtools projects automatically" />
+    <option name="projects" hit="Import Bnd/Bndtools projects automatically" />
+    <option name="meta-inf" hit="META-INF" />
+    <option name="osgi" hit="OSGi" />
+    <option name="framework" hit="OSGi framework:" />
+    <option name="osgi" hit="OSGi framework:" />
+    <option name="output" hit="Output path:" />
+    <option name="path" hit="Output path:" />
+  </configurable>
+  <configurable id="osmorc.ide.settings" configurable_name="OSGi Framework Instances">
+    <option name="framework" hit="Framework instances:" />
+    <option name="instances" hit="Framework instances:" />
+    <option name="directory" hit="Home directory:" />
+    <option name="home" hit="Home directory:" />
+    <option name="name" hit="Name:" />
+    <option name="framework" hit="OSGi Framework Instances" />
+    <option name="instances" hit="OSGi Framework Instances" />
+    <option name="osgi" hit="OSGi Framework Instances" />
+    <option name="type" hit="Type:" />
+    <option name="version" hit="Version:" />
+  </configurable>
+  <configurable id="reference.settings.project.osgi.library.bundling" configurable_name="Library Bundling">
+    <option name="bundling" hit="Library Bundling" />
+    <option name="library" hit="Library Bundling" />
+    <option name="library" hit="Library name pattern:" />
+    <option name="name" hit="Library name pattern:" />
+    <option name="pattern" hit="Library name pattern:" />
+    <option name="entries" hit="Manifest entries:" />
+    <option name="manifest" hit="Manifest entries:" />
+    <option name="bundle" hit="Never bundle" />
+    <option name="never" hit="Never bundle" />
+    <option name="further" hit="Process no further rules" />
+    <option name="no" hit="Process no further rules" />
+    <option name="process" hit="Process no further rules" />
+    <option name="rules" hit="Process no further rules" />
+  </configurable>
+</options>
+

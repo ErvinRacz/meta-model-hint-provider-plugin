@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<options>
+  <configurable id="preferences.keymap" configurable_name="Keymap">
+    <option name="" path="ActionManager" hit="" />
+    <option name="add" path="ActionManager" hit="Add Docker connection" />
+    <option name="connection" path="ActionManager" hit="Add Docker connection" />
+    <option name="docker" path="ActionManager" hit="Add Docker connection" />
+    <option name="attach" path="ActionManager" hit="Attach" />
+    <option name="attach" path="ActionManager" hit="Attach to the selected container" />
+    <option name="container" path="ActionManager" hit="Attach to the selected container" />
+    <option name="selected" path="ActionManager" hit="Attach to the selected container" />
+    <option name="the" path="ActionManager" hit="Attach to the selected container" />
+    <option name="to" path="ActionManager" hit="Attach to the selected container" />
+    <option name="container" path="ActionManager" hit="Copy Container ID" />
+    <option name="copy" path="ActionManager" hit="Copy Container ID" />
+    <option name="id" path="ActionManager" hit="Copy Container ID" />
+    <option name="clipboard" path="ActionManager" hit="Copy ID of the selected container into clipboard" />
+    <option name="container" path="ActionManager" hit="Copy ID of the selected container into clipboard" />
+    <option name="copy" path="ActionManager" hit="Copy ID of the selected container into clipboard" />
+    <option name="id" path="ActionManager" hit="Copy ID of the selected container into clipboard" />
+    <option name="into" path="ActionManager" hit="Copy ID of the selected container into clipboard" />
+    <option name="of" path="ActionManager" hit="Copy ID of the selected container into clipboard" />
+    <option name="selected" path="ActionManager" hit="Copy ID of the selected container into clipboard" />
+    <option name="the" path="ActionManager" hit="Copy ID of the selected container into clipboard" />
+    <option name="clipboard" path="ActionManager" hit="Copy ID of the selected image into clipboard" />
+    <option name="copy" path="ActionManager" hit="Copy ID of the selected image into clipboard" />
+    <option name="id" path="ActionManager" hit="Copy ID of the selected image into clipboard" />
+    <option name="image" path="ActionManager" hit="Copy ID of the selected image into clipboard" />
+    <option name="into" path="ActionManager" hit="Copy ID of the selected image into clipboard" />
+    <option name="of" path="ActionManager" hit="Copy ID of the selected image into clipboard" />
+    <option name="selected" path="ActionManager" hit="Copy ID of the selected image into clipboard" />
+    <option name="the" path="ActionManager" hit="Copy ID of the selected image into clipboard" />
+    <option name="copy" path="ActionManager" hit="Copy Image ID" />
+    <option name="id" path="ActionManager" hit="Copy Image ID" />
+    <option name="image" path="ActionManager" hit="Copy Image ID" />
+    <option name="clipboard" path="ActionManager" hit="Copy image ID or tag of the selected container into clipboard" />
+    <option name="container" path="ActionManager" hit="Copy image ID or tag of the selected container into clipboard" />
+    <option name="copy" path="ActionManager" hit="Copy image ID or tag of the selected container into clipboard" />
+    <option name="id" path="ActionManager" hit="Copy image ID or tag of the selected container into clipboard" />
+    <option name="image" path="ActionManager" hit="Copy image ID or tag of the selected container into clipboard" />
+    <option name="into" path="ActionManager" hit="Copy image ID or tag of the selected container into clipboard" />
+    <option name="of" path="ActionManager" hit="Copy image ID or tag of the selected container into clipboard" />
+    <option name="or" path="ActionManager" hit="Copy image ID or tag of the selected container into clipboard" />
+    <option name="selected" path="ActionManager" hit="Copy image ID or tag of the selected container into clipboard" />
+    <option name="tag" path="ActionManager" hit="Copy image ID or tag of the selected container into clipboard" />
+    <option name="the" path="ActionManager" hit="Copy image ID or tag of the selected container into clipboard" />
+    <option name="container" path="ActionManager" hit="Create Container" />
+    <option name="create" path="ActionManager" hit="Create Container" />
+    <option name="and" path="ActionManager" hit="Create and run container for the selected image" />
+    <option name="container" path="ActionManager" hit="Create and run container for the selected image" />
+    <option name="create" path="ActionManager" hit="Create and run container for the selected image" />
+    <option name="for" path="ActionManager" hit="Create and run container for the selected image" />
+    <option name="image" path="ActionManager" hit="Create and run container for the selected image" />
+    <option name="run" path="ActionManager" hit="Create and run container for the selected image" />
+    <option name="selected" path="ActionManager" hit="Create and run container for the selected image" />
+    <option name="the" path="ActionManager" hit="Create and run container for the selected image" />
+    <option name="container" path="ActionManager" hit="Delete Container" />
+    <option name="delete" path="ActionManager" hit="Delete Container" />
+    <option name="delete" path="ActionManager" hit="Delete Image" />
+    <option name="image" path="ActionManager" hit="Delete Image" />
+    <option name="container" path="ActionManager" hit="Delete the selected container(s)" />
+    <option name="delete" path="ActionManager" hit="Delete the selected container(s)" />
+    <option name="s" path="ActionManager" hit="Delete the selected container(s)" />
+    <option name="selected" path="ActionManager" hit="Delete the selected container(s)" />
+    <option name="the" path="ActionManager" hit="Delete the selected container(s)" />
+    <option name="delete" path="ActionManager" hit="Delete the selected image(s)" />
+    <option name="image" path="ActionManager" hit="Delete the selected image(s)" />
+    <option name="s" path="ActionManager" hit="Delete the selected image(s)" />
+    <option name="selected" path="ActionManager" hit="Delete the selected image(s)" />
+    <option name="the" path="ActionManager" hit="Delete the selected image(s)" />
+    <option name="docker" path="ActionManager" hit="Docker" />
+    <option name="connection" path="ActionManager" hit="Docker Connection" />
+    <option name="docker" path="ActionManager" hit="Docker Connection" />
+    <option name="down" path="ActionManager" hit="Down" />
+    <option name="exec" path="ActionManager" hit="Exec" />
+    <option name="inspect" path="ActionManager" hit="Inspect" />
+    <option name="image" path="ActionManager" hit="Pull Image..." />
+    <option name="pull" path="ActionManager" hit="Pull Image..." />
+    <option name="from" path="ActionManager" hit="Pull image from repository" />
+    <option name="image" path="ActionManager" hit="Pull image from repository" />
+    <option name="pull" path="ActionManager" hit="Pull image from repository" />
+    <option name="repository" path="ActionManager" hit="Pull image from repository" />
+    <option name="image" path="ActionManager" hit="Push Image..." />
+    <option name="push" path="ActionManager" hit="Push Image..." />
+    <option name="image" path="ActionManager" hit="Push selected image to repository" />
+    <option name="push" path="ActionManager" hit="Push selected image to repository" />
+    <option name="repository" path="ActionManager" hit="Push selected image to repository" />
+    <option name="selected" path="ActionManager" hit="Push selected image to repository" />
+    <option name="to" path="ActionManager" hit="Push selected image to repository" />
+    <option name="an" path="ActionManager" hit="Reveal in the services tree an image of the selected container" />
+    <option name="container" path="ActionManager" hit="Reveal in the services tree an image of the selected container" />
+    <option name="image" path="ActionManager" hit="Reveal in the services tree an image of the selected container" />
+    <option name="in" path="ActionManager" hit="Reveal in the services tree an image of the selected container" />
+    <option name="of" path="ActionManager" hit="Reveal in the services tree an image of the selected container" />
+    <option name="reveal" path="ActionManager" hit="Reveal in the services tree an image of the selected container" />
+    <option name="selected" path="ActionManager" hit="Reveal in the services tree an image of the selected container" />
+    <option name="services" path="ActionManager" hit="Reveal in the services tree an image of the selected container" />
+    <option name="the" path="ActionManager" hit="Reveal in the services tree an image of the selected container" />
+    <option name="tree" path="ActionManager" hit="Reveal in the services tree an image of the selected container" />
+    <option name="a" path="ActionManager" hit="Run a command in the selected container" />
+    <option name="command" path="ActionManager" hit="Run a command in the selected container" />
+    <option name="container" path="ActionManager" hit="Run a command in the selected container" />
+    <option name="in" path="ActionManager" hit="Run a command in the selected container" />
+    <option name="run" path="ActionManager" hit="Run a command in the selected container" />
+    <option name="selected" path="ActionManager" hit="Run a command in the selected container" />
+    <option name="the" path="ActionManager" hit="Run a command in the selected container" />
+    <option name="scale" path="ActionManager" hit="Scale" />
+    <option name="scale" path="ActionManager" hit="Scale service" />
+    <option name="service" path="ActionManager" hit="Scale service" />
+    <option name="image" path="ActionManager" hit="Show Image" />
+    <option name="show" path="ActionManager" hit="Show Image" />
+    <option name="log" path="ActionManager" hit="Show Log" />
+    <option name="show" path="ActionManager" hit="Show Log" />
+    <option name="processes" path="ActionManager" hit="Show Processes" />
+    <option name="show" path="ActionManager" hit="Show Processes" />
+    <option name="container" path="ActionManager" hit="Show log of the selected container" />
+    <option name="log" path="ActionManager" hit="Show log of the selected container" />
+    <option name="of" path="ActionManager" hit="Show log of the selected container" />
+    <option name="selected" path="ActionManager" hit="Show log of the selected container" />
+    <option name="show" path="ActionManager" hit="Show log of the selected container" />
+    <option name="the" path="ActionManager" hit="Show log of the selected container" />
+    <option name="container" path="ActionManager" hit="Show processes list of the selected container" />
+    <option name="list" path="ActionManager" hit="Show processes list of the selected container" />
+    <option name="of" path="ActionManager" hit="Show processes list of the selected container" />
+    <option name="processes" path="ActionManager" hit="Show processes list of the selected container" />
+    <option name="selected" path="ActionManager" hit="Show processes list of the selected container" />
+    <option name="show" path="ActionManager" hit="Show processes list of the selected container" />
+    <option name="the" path="ActionManager" hit="Show processes list of the selected container" />
+    <option name="start" path="ActionManager" hit="Start" />
+    <option name="container" path="ActionManager" hit="Start Container" />
+    <option name="start" path="ActionManager" hit="Start Container" />
+    <option name="service" path="ActionManager" hit="Start service" />
+    <option name="start" path="ActionManager" hit="Start service" />
+    <option name="container" path="ActionManager" hit="Start the selected container" />
+    <option name="selected" path="ActionManager" hit="Start the selected container" />
+    <option name="start" path="ActionManager" hit="Start the selected container" />
+    <option name="the" path="ActionManager" hit="Start the selected container" />
+    <option name="stop" path="ActionManager" hit="Stop" />
+    <option name="container" path="ActionManager" hit="Stop Container" />
+    <option name="stop" path="ActionManager" hit="Stop Container" />
+    <option name="service" path="ActionManager" hit="Stop service" />
+    <option name="stop" path="ActionManager" hit="Stop service" />
+    <option name="container" path="ActionManager" hit="Stop the selected container" />
+    <option name="selected" path="ActionManager" hit="Stop the selected container" />
+    <option name="stop" path="ActionManager" hit="Stop the selected container" />
+    <option name="the" path="ActionManager" hit="Stop the selected container" />
+    <option name="containers" path="ActionManager" hit="Stopped Containers" />
+    <option name="stopped" path="ActionManager" hit="Stopped Containers" />
+    <option name="all" path="ActionManager" hit="Stops all services" />
+    <option name="services" path="ActionManager" hit="Stops all services" />
+    <option name="stops" path="ActionManager" hit="Stops all services" />
+    <option name="and" path="ActionManager" hit="Stops containers and removes containers, networks, volumes and images" />
+    <option name="containers" path="ActionManager" hit="Stops containers and removes containers, networks, volumes and images" />
+    <option name="images" path="ActionManager" hit="Stops containers and removes containers, networks, volumes and images" />
+    <option name="networks" path="ActionManager" hit="Stops containers and removes containers, networks, volumes and images" />
+    <option name="removes" path="ActionManager" hit="Stops containers and removes containers, networks, volumes and images" />
+    <option name="stops" path="ActionManager" hit="Stops containers and removes containers, networks, volumes and images" />
+    <option name="volumes" path="ActionManager" hit="Stops containers and removes containers, networks, volumes and images" />
+    <option name="images" path="ActionManager" hit="Untagged Images" />
+    <option name="untagged" path="ActionManager" hit="Untagged Images" />
+  </configurable>
+  <configurable id="Docker" configurable_name="Docker">
+    <option name="" hit="  To configure integration with Docker, click +  " />
+    <option name="click" hit="  To configure integration with Docker, click +  " />
+    <option name="configure" hit="  To configure integration with Docker, click +  " />
+    <option name="docker" hit="  To configure integration with Docker, click +  " />
+    <option name="integration" hit="  To configure integration with Docker, click +  " />
+    <option name="to" hit="  To configure integration with Docker, click +  " />
+    <option name="with" hit="  To configure integration with Docker, click +  " />
+    <option name="docker" hit="Docker" />
+  </configurable>
+  <configurable id="DockerRegistry" configurable_name="Registry">
+    <option name="" hit="  To configure Docker Registry, click '+'  " />
+    <option name="click" hit="  To configure Docker Registry, click '+'  " />
+    <option name="configure" hit="  To configure Docker Registry, click '+'  " />
+    <option name="docker" hit="  To configure Docker Registry, click '+'  " />
+    <option name="registry" hit="  To configure Docker Registry, click '+'  " />
+    <option name="to" hit="  To configure Docker Registry, click '+'  " />
+    <option name="registry" hit="Registry" />
+  </configurable>
+  <configurable id="reference.settingsDialog.application.dockerMachine" configurable_name="Tools">
+    <option name="compose" hit="Docker Compose executable:" />
+    <option name="docker" hit="Docker Compose executable:" />
+    <option name="executable" hit="Docker Compose executable:" />
+    <option name="docker" hit="Docker Machine executable:" />
+    <option name="executable" hit="Docker Machine executable:" />
+    <option name="machine" hit="Docker Machine executable:" />
+    <option name="docker" hit="Docker executable:" />
+    <option name="executable" hit="Docker executable:" />
+    <option name="tools" hit="Tools" />
+  </configurable>
+</options>
+

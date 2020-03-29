@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<options>
+  <configurable id="preferences.keymap" configurable_name="Keymap">
+    <option name="" path="ActionManager" hit="" />
+    <option name="assign" path="ActionManager" hit="Assign Naming Strategies..." />
+    <option name="naming" path="ActionManager" hit="Assign Naming Strategies..." />
+    <option name="strategies" path="ActionManager" hit="Assign Naming Strategies..." />
+  </configurable>
+  <configurable id="fileTemplates" configurable_name="File and Code Templates">
+    <option name="0" hit="hibernate-configuration-3.0" />
+    <option name="hibernate-configuration-3" hit="hibernate-configuration-3.0" />
+    <option name="0" hit="hibernate-configuration-4.0" />
+    <option name="hibernate-configuration-4" hit="hibernate-configuration-4.0" />
+    <option name="0" hit="hibernate-configuration-5.0" />
+    <option name="hibernate-configuration-5" hit="hibernate-configuration-5.0" />
+    <option name="2" hit="hibernate-configuration-5.2" />
+    <option name="hibernate-configuration-5" hit="hibernate-configuration-5.2" />
+    <option name="0" hit="hibernate-main-3.0" />
+    <option name="hibernate-main-3" hit="hibernate-main-3.0" />
+    <option name="0" hit="hibernate-main-4.0" />
+    <option name="hibernate-main-4" hit="hibernate-main-4.0" />
+    <option name="0" hit="hibernate-main-5.0" />
+    <option name="hibernate-main-5" hit="hibernate-main-5.0" />
+    <option name="2" hit="hibernate-main-5.2" />
+    <option name="hibernate-main-5" hit="hibernate-main-5.2" />
+    <option name="0" hit="hibernate-mapping-3.0" />
+    <option name="hibernate-mapping-3" hit="hibernate-mapping-3.0" />
+    <option name="0" hit="hibernate-mapping-4.0" />
+    <option name="hibernate-mapping-4" hit="hibernate-mapping-4.0" />
+    <option name="0" hit="hibernate-mapping-5.0" />
+    <option name="hibernate-mapping-5" hit="hibernate-mapping-5.0" />
+  </configurable>
+</options>
+

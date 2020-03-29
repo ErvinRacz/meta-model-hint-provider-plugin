@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<options>
+  <configurable id="preferences.keymap" configurable_name="Keymap">
+    <option name="add" path="ActionManager" hit="Add new dependency and execute associated 'ng-add' schematics" />
+    <option name="and" path="ActionManager" hit="Add new dependency and execute associated 'ng-add' schematics" />
+    <option name="associated" path="ActionManager" hit="Add new dependency and execute associated 'ng-add' schematics" />
+    <option name="dependency" path="ActionManager" hit="Add new dependency and execute associated 'ng-add' schematics" />
+    <option name="execute" path="ActionManager" hit="Add new dependency and execute associated 'ng-add' schematics" />
+    <option name="new" path="ActionManager" hit="Add new dependency and execute associated 'ng-add' schematics" />
+    <option name="ng-add" path="ActionManager" hit="Add new dependency and execute associated 'ng-add' schematics" />
+    <option name="schematics" path="ActionManager" hit="Add new dependency and execute associated 'ng-add' schematics" />
+    <option name="angular" path="ActionManager" hit="Angular Dependency..." />
+    <option name="dependency" path="ActionManager" hit="Angular Dependency..." />
+    <option name="angular" path="ActionManager" hit="Angular Schematic..." />
+    <option name="schematic" path="ActionManager" hit="Angular Schematic..." />
+    <option name="angular" path="ActionManager" hit="Generate new code from Angular Schematics" />
+    <option name="code" path="ActionManager" hit="Generate new code from Angular Schematics" />
+    <option name="from" path="ActionManager" hit="Generate new code from Angular Schematics" />
+    <option name="generate" path="ActionManager" hit="Generate new code from Angular Schematics" />
+    <option name="new" path="ActionManager" hit="Generate new code from Angular Schematics" />
+    <option name="schematics" path="ActionManager" hit="Generate new code from Angular Schematics" />
+    <option name="angularjs" path="ActionManager" hit="Show AngularJS UI-Router State Diagram" />
+    <option name="diagram" path="ActionManager" hit="Show AngularJS UI-Router State Diagram" />
+    <option name="show" path="ActionManager" hit="Show AngularJS UI-Router State Diagram" />
+    <option name="state" path="ActionManager" hit="Show AngularJS UI-Router State Diagram" />
+    <option name="ui-router" path="ActionManager" hit="Show AngularJS UI-Router State Diagram" />
+  </configurable>
+  <configurable id="reference.settingsdialog.IDE.editor.colors.Angular Template" configurable_name="Angular Template">
+    <option name="angular" hit="Angular Template" />
+    <option name="template" hit="Angular Template" />
+    <option name="braces" hit="Braces in interpolation" />
+    <option name="in" hit="Braces in interpolation" />
+    <option name="interpolation" hit="Braces in interpolation" />
+    <option name="braces" hit="Braces in plural expression" />
+    <option name="expression" hit="Braces in plural expression" />
+    <option name="in" hit="Braces in plural expression" />
+    <option name="plural" hit="Braces in plural expression" />
+    <option name="comma" hit="Comma in plural expression" />
+    <option name="expression" hit="Comma in plural expression" />
+    <option name="in" hit="Comma in plural expression" />
+    <option name="plural" hit="Comma in plural expression" />
+    <option name="binding" hit="Event binding ‘(event)’" />
+    <option name="event" hit="Event binding ‘(event)’" />
+    <option name="expression" hit="Plural expression" />
+    <option name="plural" hit="Plural expression" />
+    <option name="binding" hit="Property binding ‘[property]’" />
+    <option name="property" hit="Property binding ‘[property]’" />
+    <option name="directive" hit="Structural directive ‘*directive’" />
+    <option name="structural" hit="Structural directive ‘*directive’" />
+    <option name="expression" hit="Template expression" />
+    <option name="template" hit="Template expression" />
+    <option name="reference" hit="Template reference variable ‘#var’" />
+    <option name="template" hit="Template reference variable ‘#var’" />
+    <option name="var" hit="Template reference variable ‘#var’" />
+    <option name="variable" hit="Template reference variable ‘#var’" />
+    <option name="binding" hit="Two way data binding ‘[(...)]’" />
+    <option name="data" hit="Two way data binding ‘[(...)]’" />
+    <option name="two" hit="Two way data binding ‘[(...)]’" />
+    <option name="way" hit="Two way data binding ‘[(...)]’" />
+  </configurable>
+</options>
+

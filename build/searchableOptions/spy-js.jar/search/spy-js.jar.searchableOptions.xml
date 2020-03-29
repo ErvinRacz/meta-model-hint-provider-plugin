@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<options>
+  <configurable id="preferences.keymap" configurable_name="Keymap">
+    <option name="" path="ActionManager" hit="" />
+    <option name="add" path="ActionManager" hit="Add label" />
+    <option name="label" path="ActionManager" hit="Add label" />
+    <option name="capture" path="ActionManager" hit="Capture only event" />
+    <option name="event" path="ActionManager" hit="Capture only event" />
+    <option name="only" path="ActionManager" hit="Capture only event" />
+    <option name="capture" path="ActionManager" hit="Capture only file" />
+    <option name="file" path="ActionManager" hit="Capture only file" />
+    <option name="only" path="ActionManager" hit="Capture only file" />
+    <option name="capture" path="ActionManager" hit="Capture only this file" />
+    <option name="file" path="ActionManager" hit="Capture only this file" />
+    <option name="only" path="ActionManager" hit="Capture only this file" />
+    <option name="this" path="ActionManager" hit="Capture only this file" />
+    <option name="close" path="ActionManager" hit="Close trace file(s)" />
+    <option name="file" path="ActionManager" hit="Close trace file(s)" />
+    <option name="s" path="ActionManager" hit="Close trace file(s)" />
+    <option name="trace" path="ActionManager" hit="Close trace file(s)" />
+    <option name="caller" path="ActionManager" hit="Jump to Caller" />
+    <option name="jump" path="ActionManager" hit="Jump to Caller" />
+    <option name="to" path="ActionManager" hit="Jump to Caller" />
+    <option name="jump" path="ActionManager" hit="Jump to Mapped Trace" />
+    <option name="mapped" path="ActionManager" hit="Jump to Mapped Trace" />
+    <option name="to" path="ActionManager" hit="Jump to Mapped Trace" />
+    <option name="trace" path="ActionManager" hit="Jump to Mapped Trace" />
+    <option name="jump" path="ActionManager" hit="Jump to Source" />
+    <option name="source" path="ActionManager" hit="Jump to Source" />
+    <option name="to" path="ActionManager" hit="Jump to Source" />
+    <option name="jump" path="ActionManager" hit="Jump to Trace" />
+    <option name="to" path="ActionManager" hit="Jump to Trace" />
+    <option name="trace" path="ActionManager" hit="Jump to Trace" />
+    <option name="json" path="ActionManager" hit="Jump to package.json" />
+    <option name="jump" path="ActionManager" hit="Jump to package.json" />
+    <option name="package" path="ActionManager" hit="Jump to package.json" />
+    <option name="to" path="ActionManager" hit="Jump to package.json" />
+    <option name="event" path="ActionManager" hit="Mute event" />
+    <option name="mute" path="ActionManager" hit="Mute event" />
+    <option name="file" path="ActionManager" hit="Mute file" />
+    <option name="mute" path="ActionManager" hit="Mute file" />
+    <option name="modules" path="ActionManager" hit="Mute node modules" />
+    <option name="mute" path="ActionManager" hit="Mute node modules" />
+    <option name="node" path="ActionManager" hit="Mute node modules" />
+    <option name="file" path="ActionManager" hit="Mute this file" />
+    <option name="mute" path="ActionManager" hit="Mute this file" />
+    <option name="this" path="ActionManager" hit="Mute this file" />
+    <option name="module" path="ActionManager" hit="Mute this node module" />
+    <option name="mute" path="ActionManager" hit="Mute this node module" />
+    <option name="node" path="ActionManager" hit="Mute this node module" />
+    <option name="this" path="ActionManager" hit="Mute this node module" />
+    <option name="first" path="ActionManager" hit="Navigate to the first trace search result" />
+    <option name="navigate" path="ActionManager" hit="Navigate to the first trace search result" />
+    <option name="result" path="ActionManager" hit="Navigate to the first trace search result" />
+    <option name="search" path="ActionManager" hit="Navigate to the first trace search result" />
+    <option name="the" path="ActionManager" hit="Navigate to the first trace search result" />
+    <option name="to" path="ActionManager" hit="Navigate to the first trace search result" />
+    <option name="trace" path="ActionManager" hit="Navigate to the first trace search result" />
+    <option name="last" path="ActionManager" hit="Navigate to the last trace search result" />
+    <option name="navigate" path="ActionManager" hit="Navigate to the last trace search result" />
+    <option name="result" path="ActionManager" hit="Navigate to the last trace search result" />
+    <option name="search" path="ActionManager" hit="Navigate to the last trace search result" />
+    <option name="the" path="ActionManager" hit="Navigate to the last trace search result" />
+    <option name="to" path="ActionManager" hit="Navigate to the last trace search result" />
+    <option name="trace" path="ActionManager" hit="Navigate to the last trace search result" />
+    <option name="navigate" path="ActionManager" hit="Navigate to the next trace search result" />
+    <option name="next" path="ActionManager" hit="Navigate to the next trace search result" />
+    <option name="result" path="ActionManager" hit="Navigate to the next trace search result" />
+    <option name="search" path="ActionManager" hit="Navigate to the next trace search result" />
+    <option name="the" path="ActionManager" hit="Navigate to the next trace search result" />
+    <option name="to" path="ActionManager" hit="Navigate to the next trace search result" />
+    <option name="trace" path="ActionManager" hit="Navigate to the next trace search result" />
+    <option name="navigate" path="ActionManager" hit="Navigate to the previous trace search result" />
+    <option name="previous" path="ActionManager" hit="Navigate to the previous trace search result" />
+    <option name="result" path="ActionManager" hit="Navigate to the previous trace search result" />
+    <option name="search" path="ActionManager" hit="Navigate to the previous trace search result" />
+    <option name="the" path="ActionManager" hit="Navigate to the previous trace search result" />
+    <option name="to" path="ActionManager" hit="Navigate to the previous trace search result" />
+    <option name="trace" path="ActionManager" hit="Navigate to the previous trace search result" />
+    <option name="call" path="ActionManager" hit="Next Call" />
+    <option name="next" path="ActionManager" hit="Next Call" />
+    <option name="call" path="ActionManager" hit="Previous Call" />
+    <option name="previous" path="ActionManager" hit="Previous Call" />
+    <option name="browser" path="ActionManager" hit="Refresh the page in browser" />
+    <option name="in" path="ActionManager" hit="Refresh the page in browser" />
+    <option name="page" path="ActionManager" hit="Refresh the page in browser" />
+    <option name="refresh" path="ActionManager" hit="Refresh the page in browser" />
+    <option name="the" path="ActionManager" hit="Refresh the page in browser" />
+    <option name="remove" path="ActionManager" hit="Remove" />
+    <option name="all" path="ActionManager" hit="Remove all children" />
+    <option name="children" path="ActionManager" hit="Remove all children" />
+    <option name="remove" path="ActionManager" hit="Remove all children" />
+    <option name="and" path="ActionManager" hit="Remove and Close trace file(s)" />
+    <option name="close" path="ActionManager" hit="Remove and Close trace file(s)" />
+    <option name="file" path="ActionManager" hit="Remove and Close trace file(s)" />
+    <option name="remove" path="ActionManager" hit="Remove and Close trace file(s)" />
+    <option name="s" path="ActionManager" hit="Remove and Close trace file(s)" />
+    <option name="trace" path="ActionManager" hit="Remove and Close trace file(s)" />
+    <option name="calls" path="ActionManager" hit="Search this function calls" />
+    <option name="function" path="ActionManager" hit="Search this function calls" />
+    <option name="search" path="ActionManager" hit="Search this function calls" />
+    <option name="this" path="ActionManager" hit="Search this function calls" />
+    <option name="across" path="ActionManager" hit="Search this function calls across all events" />
+    <option name="all" path="ActionManager" hit="Search this function calls across all events" />
+    <option name="calls" path="ActionManager" hit="Search this function calls across all events" />
+    <option name="events" path="ActionManager" hit="Search this function calls across all events" />
+    <option name="function" path="ActionManager" hit="Search this function calls across all events" />
+    <option name="search" path="ActionManager" hit="Search this function calls across all events" />
+    <option name="this" path="ActionManager" hit="Search this function calls across all events" />
+    <option name="event" path="ActionManager" hit="Select this event in the events tree" />
+    <option name="events" path="ActionManager" hit="Select this event in the events tree" />
+    <option name="in" path="ActionManager" hit="Select this event in the events tree" />
+    <option name="select" path="ActionManager" hit="Select this event in the events tree" />
+    <option name="the" path="ActionManager" hit="Select this event in the events tree" />
+    <option name="this" path="ActionManager" hit="Select this event in the events tree" />
+    <option name="tree" path="ActionManager" hit="Select this event in the events tree" />
+    <option name="application" path="ActionManager" hit="Show application dependency diagram" />
+    <option name="dependency" path="ActionManager" hit="Show application dependency diagram" />
+    <option name="diagram" path="ActionManager" hit="Show application dependency diagram" />
+    <option name="show" path="ActionManager" hit="Show application dependency diagram" />
+    <option name="dependency" path="ActionManager" hit="Show event dependency diagram" />
+    <option name="diagram" path="ActionManager" hit="Show event dependency diagram" />
+    <option name="event" path="ActionManager" hit="Show event dependency diagram" />
+    <option name="show" path="ActionManager" hit="Show event dependency diagram" />
+    <option name="browser" path="ActionManager" hit="Try closing the page in browser" />
+    <option name="closing" path="ActionManager" hit="Try closing the page in browser" />
+    <option name="in" path="ActionManager" hit="Try closing the page in browser" />
+    <option name="page" path="ActionManager" hit="Try closing the page in browser" />
+    <option name="the" path="ActionManager" hit="Try closing the page in browser" />
+    <option name="try" path="ActionManager" hit="Try closing the page in browser" />
+  </configurable>
+  <configurable id="reference.settingsdialog.IDE.editor.colors.Spy-js" configurable_name="Spy-js">
+    <option name="spy-js" hit="Spy-js" />
+    <option name="executed" hit="Executed function scope" />
+    <option name="function" hit="Executed function scope" />
+    <option name="scope" hit="Executed function scope" />
+    <option name="an" hit="Executed function with an uncaught exception scope" />
+    <option name="exception" hit="Executed function with an uncaught exception scope" />
+    <option name="executed" hit="Executed function with an uncaught exception scope" />
+    <option name="function" hit="Executed function with an uncaught exception scope" />
+    <option name="scope" hit="Executed function with an uncaught exception scope" />
+    <option name="uncaught" hit="Executed function with an uncaught exception scope" />
+    <option name="with" hit="Executed function with an uncaught exception scope" />
+    <option name="executed" hit="Executed inline statement" />
+    <option name="inline" hit="Executed inline statement" />
+    <option name="statement" hit="Executed inline statement" />
+    <option name="executed" hit="Executed program scope" />
+    <option name="program" hit="Executed program scope" />
+    <option name="scope" hit="Executed program scope" />
+    <option name="executed" hit="Executed statement" />
+    <option name="statement" hit="Executed statement" />
+    <option name="execution" hit="Function execution time" />
+    <option name="function" hit="Function execution time" />
+    <option name="time" hit="Function execution time" />
+    <option name="hint" hit="Value hint" />
+    <option name="value" hit="Value hint" />
+  </configurable>
+</options>
+

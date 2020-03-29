@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<options>
+  <configurable id="preferences.keymap" configurable_name="Keymap">
+    <option name="a" path="ActionManager" hit="Add a new column to the table after the current one" />
+    <option name="add" path="ActionManager" hit="Add a new column to the table after the current one" />
+    <option name="after" path="ActionManager" hit="Add a new column to the table after the current one" />
+    <option name="column" path="ActionManager" hit="Add a new column to the table after the current one" />
+    <option name="current" path="ActionManager" hit="Add a new column to the table after the current one" />
+    <option name="new" path="ActionManager" hit="Add a new column to the table after the current one" />
+    <option name="one" path="ActionManager" hit="Add a new column to the table after the current one" />
+    <option name="table" path="ActionManager" hit="Add a new column to the table after the current one" />
+    <option name="the" path="ActionManager" hit="Add a new column to the table after the current one" />
+    <option name="to" path="ActionManager" hit="Add a new column to the table after the current one" />
+    <option name="a" path="ActionManager" hit="Add a new column to the table before the current one" />
+    <option name="add" path="ActionManager" hit="Add a new column to the table before the current one" />
+    <option name="before" path="ActionManager" hit="Add a new column to the table before the current one" />
+    <option name="column" path="ActionManager" hit="Add a new column to the table before the current one" />
+    <option name="current" path="ActionManager" hit="Add a new column to the table before the current one" />
+    <option name="new" path="ActionManager" hit="Add a new column to the table before the current one" />
+    <option name="one" path="ActionManager" hit="Add a new column to the table before the current one" />
+    <option name="table" path="ActionManager" hit="Add a new column to the table before the current one" />
+    <option name="the" path="ActionManager" hit="Add a new column to the table before the current one" />
+    <option name="to" path="ActionManager" hit="Add a new column to the table before the current one" />
+    <option name="column" path="ActionManager" hit="Navigate to next table column" />
+    <option name="navigate" path="ActionManager" hit="Navigate to next table column" />
+    <option name="next" path="ActionManager" hit="Navigate to next table column" />
+    <option name="table" path="ActionManager" hit="Navigate to next table column" />
+    <option name="to" path="ActionManager" hit="Navigate to next table column" />
+    <option name="navigate" path="ActionManager" hit="Navigate to next table row" />
+    <option name="next" path="ActionManager" hit="Navigate to next table row" />
+    <option name="row" path="ActionManager" hit="Navigate to next table row" />
+    <option name="table" path="ActionManager" hit="Navigate to next table row" />
+    <option name="to" path="ActionManager" hit="Navigate to next table row" />
+    <option name="column" path="ActionManager" hit="Navigate to previous table column" />
+    <option name="navigate" path="ActionManager" hit="Navigate to previous table column" />
+    <option name="previous" path="ActionManager" hit="Navigate to previous table column" />
+    <option name="table" path="ActionManager" hit="Navigate to previous table column" />
+    <option name="to" path="ActionManager" hit="Navigate to previous table column" />
+    <option name="navigate" path="ActionManager" hit="Navigate to previous table row" />
+    <option name="previous" path="ActionManager" hit="Navigate to previous table row" />
+    <option name="row" path="ActionManager" hit="Navigate to previous table row" />
+    <option name="table" path="ActionManager" hit="Navigate to previous table row" />
+    <option name="to" path="ActionManager" hit="Navigate to previous table row" />
+    <option name="preview" path="ActionManager" hit="Web Preview..." />
+    <option name="web" path="ActionManager" hit="Web Preview..." />
+  </configurable>
+</options>
+

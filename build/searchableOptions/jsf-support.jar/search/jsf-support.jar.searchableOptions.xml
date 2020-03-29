@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<options>
+  <configurable id="preferences.keymap" configurable_name="Keymap">
+    <option name="" path="ActionManager" hit="" />
+    <option name="create" path="ActionManager" hit="Creates new Create JSF/Facelets page" />
+    <option name="creates" path="ActionManager" hit="Creates new Create JSF/Facelets page" />
+    <option name="facelets" path="ActionManager" hit="Creates new Create JSF/Facelets page" />
+    <option name="jsf" path="ActionManager" hit="Creates new Create JSF/Facelets page" />
+    <option name="new" path="ActionManager" hit="Creates new Create JSF/Facelets page" />
+    <option name="page" path="ActionManager" hit="Creates new Create JSF/Facelets page" />
+    <option name="faces" path="ActionManager" hit="Generate Faces Pages..." />
+    <option name="generate" path="ActionManager" hit="Generate Faces Pages..." />
+    <option name="pages" path="ActionManager" hit="Generate Faces Pages..." />
+    <option name="facelets" path="ActionManager" hit="JSF/Facelets" />
+    <option name="jsf" path="ActionManager" hit="JSF/Facelets" />
+    <option name="config" path="ActionManager" hit="New Faces Config File" />
+    <option name="faces" path="ActionManager" hit="New Faces Config File" />
+    <option name="file" path="ActionManager" hit="New Faces Config File" />
+    <option name="new" path="ActionManager" hit="New Faces Config File" />
+    <option name="open" path="ActionManager" hit="Open Selected Pages" />
+    <option name="pages" path="ActionManager" hit="Open Selected Pages" />
+    <option name="selected" path="ActionManager" hit="Open Selected Pages" />
+    <option name="as" path="ActionManager" hit="Use as Faces Config" />
+    <option name="config" path="ActionManager" hit="Use as Faces Config" />
+    <option name="faces" path="ActionManager" hit="Use as Faces Config" />
+    <option name="use" path="ActionManager" hit="Use as Faces Config" />
+  </configurable>
+</options>
+

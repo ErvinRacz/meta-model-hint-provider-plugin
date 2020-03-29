@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<options>
+  <configurable id="preferences.keymap" configurable_name="Keymap">
+    <option name="create" path="ActionManager" hit="Create New jPDL Process File" />
+    <option name="file" path="ActionManager" hit="Create New jPDL Process File" />
+    <option name="jpdl" path="ActionManager" hit="Create New jPDL Process File" />
+    <option name="new" path="ActionManager" hit="Create New jPDL Process File" />
+    <option name="process" path="ActionManager" hit="Create New jPDL Process File" />
+    <option name="jpdl" path="ActionManager" hit="jPDL Process" />
+    <option name="process" path="ActionManager" hit="jPDL Process" />
+  </configurable>
+  <configurable id="fileTemplates" configurable_name="File and Code Templates">
+    <option name="4" hit="process.4.4.jpdl" />
+    <option name="jpdl" hit="process.4.4.jpdl" />
+    <option name="process" hit="process.4.4.jpdl" />
+  </configurable>
+</options>
+

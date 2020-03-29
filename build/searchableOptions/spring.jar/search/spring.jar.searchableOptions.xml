@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<options>
+  <configurable id="preferences.keymap" configurable_name="Keymap">
+    <option name="" path="ActionManager" hit="" />
+    <option name="" path="ActionManager" hit="@Autowired Dependency..." />
+    <option name="autowired" path="ActionManager" hit="@Autowired Dependency..." />
+    <option name="dependency" path="ActionManager" hit="@Autowired Dependency..." />
+    <option name="add" path="ActionManager" hit="Add Hibernate Framework" />
+    <option name="framework" path="ActionManager" hit="Add Hibernate Framework" />
+    <option name="hibernate" path="ActionManager" hit="Add Hibernate Framework" />
+    <option name="add" path="ActionManager" hit="Add JDK Timer" />
+    <option name="jdk" path="ActionManager" hit="Add JDK Timer" />
+    <option name="timer" path="ActionManager" hit="Add JDK Timer" />
+    <option name="add" path="ActionManager" hit="Add JDO Framework" />
+    <option name="framework" path="ActionManager" hit="Add JDO Framework" />
+    <option name="jdo" path="ActionManager" hit="Add JDO Framework" />
+    <option name="add" path="ActionManager" hit="Add OpenSymphony Scheduler" />
+    <option name="opensymphony" path="ActionManager" hit="Add OpenSymphony Scheduler" />
+    <option name="scheduler" path="ActionManager" hit="Add OpenSymphony Scheduler" />
+    <option name="add" path="ActionManager" hit="Add Toplink Framework" />
+    <option name="framework" path="ActionManager" hit="Add Toplink Framework" />
+    <option name="toplink" path="ActionManager" hit="Add Toplink Framework" />
+    <option name="add" path="ActionManager" hit="Add iBatis Framework" />
+    <option name="framework" path="ActionManager" hit="Add iBatis Framework" />
+    <option name="ibatis" path="ActionManager" hit="Add iBatis Framework" />
+    <option name="active" path="ActionManager" hit="Change Active Spring Profiles..." />
+    <option name="change" path="ActionManager" hit="Change Active Spring Profiles..." />
+    <option name="profiles" path="ActionManager" hit="Change Active Spring Profiles..." />
+    <option name="spring" path="ActionManager" hit="Change Active Spring Profiles..." />
+    <option name="configuration" path="ActionManager" hit="Create new Spring configuration file" />
+    <option name="create" path="ActionManager" hit="Create new Spring configuration file" />
+    <option name="file" path="ActionManager" hit="Create new Spring configuration file" />
+    <option name="new" path="ActionManager" hit="Create new Spring configuration file" />
+    <option name="spring" path="ActionManager" hit="Create new Spring configuration file" />
+    <option name="configuration" path="ActionManager" hit="Dump Spring Configuration" />
+    <option name="dump" path="ActionManager" hit="Dump Spring Configuration" />
+    <option name="spring" path="ActionManager" hit="Dump Spring Configuration" />
+    <option name="patterns" path="ActionManager" hit="Patterns" />
+    <option name="bean" path="ActionManager" hit="Spring Bean" />
+    <option name="spring" path="ActionManager" hit="Spring Bean" />
+    <option name="config" path="ActionManager" hit="Spring Config" />
+    <option name="spring" path="ActionManager" hit="Spring Config" />
+    <option name="constructor" path="ActionManager" hit="Spring Constructor Dependency..." />
+    <option name="dependency" path="ActionManager" hit="Spring Constructor Dependency..." />
+    <option name="spring" path="ActionManager" hit="Spring Constructor Dependency..." />
+    <option name="dependency" path="ActionManager" hit="Spring Setter Dependency..." />
+    <option name="setter" path="ActionManager" hit="Spring Setter Dependency..." />
+    <option name="spring" path="ActionManager" hit="Spring Setter Dependency..." />
+  </configurable>
+  <configurable id="fileTemplates" configurable_name="File and Code Templates">
+    <option name="1_0" hit="spring-beans.1_0" />
+    <option name="spring-beans" hit="spring-beans.1_0" />
+    <option name="2_0" hit="spring-beans.2_0" />
+    <option name="spring-beans" hit="spring-beans.2_0" />
+    <option name="schema" hit="spring-beans.schema" />
+    <option name="spring-beans" hit="spring-beans.schema" />
+  </configurable>
+  <configurable id="spring" configurable_name="Spring">
+    <option name="allow" hit="Allow to auto-configure application contexts" />
+    <option name="application" hit="Allow to auto-configure application contexts" />
+    <option name="auto-configure" hit="Allow to auto-configure application contexts" />
+    <option name="contexts" hit="Allow to auto-configure application contexts" />
+    <option name="to" hit="Allow to auto-configure application contexts" />
+    <option name="common" hit="Common" />
+    <option name="configuration" hit="Configuration Files Editor" />
+    <option name="editor" hit="Configuration Files Editor" />
+    <option name="files" hit="Configuration Files Editor" />
+    <option name="contexts" hit="Show Multiple Contexts panel" />
+    <option name="multiple" hit="Show Multiple Contexts panel" />
+    <option name="panel" hit="Show Multiple Contexts panel" />
+    <option name="show" hit="Show Multiple Contexts panel" />
+    <option name="panel" hit="Show Profiles panel" />
+    <option name="profiles" hit="Show Profiles panel" />
+    <option name="show" hit="Show Profiles panel" />
+    <option name="spring" hit="Spring" />
+  </configurable>
+</options>
+

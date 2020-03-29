@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<options>
+  <configurable id="fileTemplates" configurable_name="File and Code Templates">
+    <option name="ibm-application-bnd_1_0" hit="ibm-application-bnd_1_0" />
+    <option name="ibm-application-bnd_1_1" hit="ibm-application-bnd_1_1" />
+    <option name="ibm-application-bnd_1_2" hit="ibm-application-bnd_1_2" />
+    <option name="ibm-application-ext-pme_1_0" hit="ibm-application-ext-pme_1_0" />
+    <option name="ibm-application-ext_1_0" hit="ibm-application-ext_1_0" />
+    <option name="ibm-application-ext_1_1" hit="ibm-application-ext_1_1" />
+    <option name="ibm-ejb-jar-bnd_1_0" hit="ibm-ejb-jar-bnd_1_0" />
+    <option name="ibm-ejb-jar-bnd_1_1" hit="ibm-ejb-jar-bnd_1_1" />
+    <option name="ibm-ejb-jar-bnd_1_2" hit="ibm-ejb-jar-bnd_1_2" />
+    <option name="ibm-ejb-jar-ext-pme_1_0" hit="ibm-ejb-jar-ext-pme_1_0" />
+    <option name="ibm-ejb-jar-ext_1_0" hit="ibm-ejb-jar-ext_1_0" />
+    <option name="ibm-ejb-jar-ext_1_1" hit="ibm-ejb-jar-ext_1_1" />
+    <option name="ibm-web-bnd_1_0" hit="ibm-web-bnd_1_0" />
+    <option name="ibm-web-bnd_1_1" hit="ibm-web-bnd_1_1" />
+    <option name="ibm-web-bnd_1_2" hit="ibm-web-bnd_1_2" />
+    <option name="ibm-web-ext-pme_1_0" hit="ibm-web-ext-pme_1_0" />
+    <option name="ibm-web-ext_1_0" hit="ibm-web-ext_1_0" />
+    <option name="ibm-web-ext_1_1" hit="ibm-web-ext_1_1" />
+  </configurable>
+</options>
+

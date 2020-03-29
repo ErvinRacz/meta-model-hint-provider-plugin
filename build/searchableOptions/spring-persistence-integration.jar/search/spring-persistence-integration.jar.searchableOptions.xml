@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<options>
+  <configurable id="preferences.keymap" configurable_name="Keymap">
+    <option name="" path="ActionManager" hit="" />
+    <option name="jpa" path="ActionManager" hit="JPA Pattern" />
+    <option name="pattern" path="ActionManager" hit="JPA Pattern" />
+  </configurable>
+</options>
+

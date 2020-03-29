@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<options>
+  <configurable id="preferences.keymap" configurable_name="Keymap">
+    <option name="annotation" path="ActionManager" hit="Create Guice binding annotation" />
+    <option name="binding" path="ActionManager" hit="Create Guice binding annotation" />
+    <option name="create" path="ActionManager" hit="Create Guice binding annotation" />
+    <option name="guice" path="ActionManager" hit="Create Guice binding annotation" />
+    <option name="create" path="ActionManager" hit="Create Guice method interceptor" />
+    <option name="guice" path="ActionManager" hit="Create Guice method interceptor" />
+    <option name="interceptor" path="ActionManager" hit="Create Guice method interceptor" />
+    <option name="method" path="ActionManager" hit="Create Guice method interceptor" />
+    <option name="create" path="ActionManager" hit="Create Guice module" />
+    <option name="guice" path="ActionManager" hit="Create Guice module" />
+    <option name="module" path="ActionManager" hit="Create Guice module" />
+    <option name="create" path="ActionManager" hit="Create Guice provider" />
+    <option name="guice" path="ActionManager" hit="Create Guice provider" />
+    <option name="provider" path="ActionManager" hit="Create Guice provider" />
+    <option name="annotation" path="ActionManager" hit="Create Guice scope annotation" />
+    <option name="create" path="ActionManager" hit="Create Guice scope annotation" />
+    <option name="guice" path="ActionManager" hit="Create Guice scope annotation" />
+    <option name="scope" path="ActionManager" hit="Create Guice scope annotation" />
+    <option name="components" path="ActionManager" hit="Created Google Guice components" />
+    <option name="created" path="ActionManager" hit="Created Google Guice components" />
+    <option name="google" path="ActionManager" hit="Created Google Guice components" />
+    <option name="guice" path="ActionManager" hit="Created Google Guice components" />
+    <option name="google" path="ActionManager" hit="Google Guice" />
+    <option name="guice" path="ActionManager" hit="Google Guice" />
+  </configurable>
+</options>
+

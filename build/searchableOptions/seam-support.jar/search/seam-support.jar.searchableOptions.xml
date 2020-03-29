@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<options>
+  <configurable id="preferences.keymap" configurable_name="Keymap">
+    <option name="components" path="ActionManager" hit="Create Seam Components File" />
+    <option name="create" path="ActionManager" hit="Create Seam Components File" />
+    <option name="file" path="ActionManager" hit="Create Seam Components File" />
+    <option name="seam" path="ActionManager" hit="Create Seam Components File" />
+    <option name="components" path="ActionManager" hit="New Seam Components" />
+    <option name="new" path="ActionManager" hit="New Seam Components" />
+    <option name="seam" path="ActionManager" hit="New Seam Components" />
+    <option name="components" path="ActionManager" hit="Show Seam Components Dependencies" />
+    <option name="dependencies" path="ActionManager" hit="Show Seam Components Dependencies" />
+    <option name="seam" path="ActionManager" hit="Show Seam Components Dependencies" />
+    <option name="show" path="ActionManager" hit="Show Seam Components Dependencies" />
+  </configurable>
+</options>
+

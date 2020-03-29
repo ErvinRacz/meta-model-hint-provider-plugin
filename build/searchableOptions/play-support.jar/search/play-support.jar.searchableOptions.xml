@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<options>
+  <configurable id="preferences.keymap" configurable_name="Keymap">
+    <option name="play" path="ActionManager" hit="Play with Playframework..." />
+    <option name="playframework" path="ActionManager" hit="Play with Playframework..." />
+    <option name="with" path="ActionManager" hit="Play with Playframework..." />
+    <option name="console" path="ActionManager" hit="Starts Playframework console" />
+    <option name="playframework" path="ActionManager" hit="Starts Playframework console" />
+    <option name="starts" path="ActionManager" hit="Starts Playframework console" />
+  </configurable>
+  <configurable id="play.paths.configuration" configurable_name="Play Configuration">
+    <option name="home" hit="Home:" />
+    <option name="configuration" hit="Play Configuration" />
+    <option name="play" hit="Play Configuration" />
+    <option name="console" hit="Show on console run " />
+    <option name="on" hit="Show on console run " />
+    <option name="run" hit="Show on console run " />
+    <option name="show" hit="Show on console run " />
+    <option name="directory" hit="Working directory:" />
+    <option name="working" hit="Working directory:" />
+  </configurable>
+</options>
+

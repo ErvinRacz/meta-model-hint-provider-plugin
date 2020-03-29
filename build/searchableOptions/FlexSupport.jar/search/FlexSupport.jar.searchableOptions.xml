@@ -1,0 +1,804 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<options>
+  <configurable id="preferences.keymap" configurable_name="Keymap">
+    <option name="actionscript" path="ActionManager" hit="ActionScript Class" />
+    <option name="class" path="ActionManager" hit="ActionScript Class" />
+    <option name="active" path="ActionManager" hit="Active Flash Build Configuration..." />
+    <option name="build" path="ActionManager" hit="Active Flash Build Configuration..." />
+    <option name="configuration" path="ActionManager" hit="Active Flash Build Configuration..." />
+    <option name="flash" path="ActionManager" hit="Active Flash Build Configuration..." />
+    <option name="active" path="ActionManager" hit="Active build configuration is used for source code highlighting and completion in current module" />
+    <option name="and" path="ActionManager" hit="Active build configuration is used for source code highlighting and completion in current module" />
+    <option name="build" path="ActionManager" hit="Active build configuration is used for source code highlighting and completion in current module" />
+    <option name="code" path="ActionManager" hit="Active build configuration is used for source code highlighting and completion in current module" />
+    <option name="completion" path="ActionManager" hit="Active build configuration is used for source code highlighting and completion in current module" />
+    <option name="configuration" path="ActionManager" hit="Active build configuration is used for source code highlighting and completion in current module" />
+    <option name="current" path="ActionManager" hit="Active build configuration is used for source code highlighting and completion in current module" />
+    <option name="for" path="ActionManager" hit="Active build configuration is used for source code highlighting and completion in current module" />
+    <option name="highlighting" path="ActionManager" hit="Active build configuration is used for source code highlighting and completion in current module" />
+    <option name="in" path="ActionManager" hit="Active build configuration is used for source code highlighting and completion in current module" />
+    <option name="is" path="ActionManager" hit="Active build configuration is used for source code highlighting and completion in current module" />
+    <option name="module" path="ActionManager" hit="Active build configuration is used for source code highlighting and completion in current module" />
+    <option name="source" path="ActionManager" hit="Active build configuration is used for source code highlighting and completion in current module" />
+    <option name="used" path="ActionManager" hit="Active build configuration is used for source code highlighting and completion in current module" />
+    <option name="add" path="ActionManager" hit="Add as SWC Library..." />
+    <option name="as" path="ActionManager" hit="Add as SWC Library..." />
+    <option name="library" path="ActionManager" hit="Add as SWC Library..." />
+    <option name="swc" path="ActionManager" hit="Add as SWC Library..." />
+    <option name="air" path="ActionManager" hit="Create AIR mobile or desktop-targeted package (*.apk, *.ipa, *.air)" />
+    <option name="apk" path="ActionManager" hit="Create AIR mobile or desktop-targeted package (*.apk, *.ipa, *.air)" />
+    <option name="create" path="ActionManager" hit="Create AIR mobile or desktop-targeted package (*.apk, *.ipa, *.air)" />
+    <option name="desktop-targeted" path="ActionManager" hit="Create AIR mobile or desktop-targeted package (*.apk, *.ipa, *.air)" />
+    <option name="ipa" path="ActionManager" hit="Create AIR mobile or desktop-targeted package (*.apk, *.ipa, *.air)" />
+    <option name="mobile" path="ActionManager" hit="Create AIR mobile or desktop-targeted package (*.apk, *.ipa, *.air)" />
+    <option name="or" path="ActionManager" hit="Create AIR mobile or desktop-targeted package (*.apk, *.ipa, *.air)" />
+    <option name="package" path="ActionManager" hit="Create AIR mobile or desktop-targeted package (*.apk, *.ipa, *.air)" />
+    <option name="actionscript" path="ActionManager" hit="Create new ActionScript class" />
+    <option name="class" path="ActionManager" hit="Create new ActionScript class" />
+    <option name="create" path="ActionManager" hit="Create new ActionScript class" />
+    <option name="new" path="ActionManager" hit="Create new ActionScript class" />
+    <option name="component" path="ActionManager" hit="Create new MXML component" />
+    <option name="create" path="ActionManager" hit="Create new MXML component" />
+    <option name="mxml" path="ActionManager" hit="Create new MXML component" />
+    <option name="new" path="ActionManager" hit="Create new MXML component" />
+    <option name="event" path="ActionManager" hit="Event Handler" />
+    <option name="handler" path="ActionManager" hit="Event Handler" />
+    <option name="and" path="ActionManager" hit="Filter [SWF] and [UnloadSWF] messages" />
+    <option name="filter" path="ActionManager" hit="Filter [SWF] and [UnloadSWF] messages" />
+    <option name="messages" path="ActionManager" hit="Filter [SWF] and [UnloadSWF] messages" />
+    <option name="swf" path="ActionManager" hit="Filter [SWF] and [UnloadSWF] messages" />
+    <option name="unloadswf" path="ActionManager" hit="Filter [SWF] and [UnloadSWF] messages" />
+    <option name="component" path="ActionManager" hit="MXML Component" />
+    <option name="mxml" path="ActionManager" hit="MXML Component" />
+    <option name="air" path="ActionManager" hit="Package AIR Application..." />
+    <option name="application" path="ActionManager" hit="Package AIR Application..." />
+    <option name="package" path="ActionManager" hit="Package AIR Application..." />
+    <option name="commands" path="ActionManager" hit="Send Commands To Flex Debugger" />
+    <option name="debugger" path="ActionManager" hit="Send Commands To Flex Debugger" />
+    <option name="flex" path="ActionManager" hit="Send Commands To Flex Debugger" />
+    <option name="send" path="ActionManager" hit="Send Commands To Flex Debugger" />
+    <option name="to" path="ActionManager" hit="Send Commands To Flex Debugger" />
+    <option name="method" path="ActionManager" hit="Test Method" />
+    <option name="test" path="ActionManager" hit="Test Method" />
+    <option name="and" path="ActionManager" hit="Use this toggle button to choose whether you want [SWF] and [UnloadSWF] messages to be shown in Flex debug console. Note that toggling the button doesn't change current console content, filter is applied only to new messages that will appear." />
+    <option name="appear" path="ActionManager" hit="Use this toggle button to choose whether you want [SWF] and [UnloadSWF] messages to be shown in Flex debug console. Note that toggling the button doesn't change current console content, filter is applied only to new messages that will appear." />
+    <option name="applied" path="ActionManager" hit="Use this toggle button to choose whether you want [SWF] and [UnloadSWF] messages to be shown in Flex debug console. Note that toggling the button doesn't change current console content, filter is applied only to new messages that will appear." />
+    <option name="be" path="ActionManager" hit="Use this toggle button to choose whether you want [SWF] and [UnloadSWF] messages to be shown in Flex debug console. Note that toggling the button doesn't change current console content, filter is applied only to new messages that will appear." />
+    <option name="button" path="ActionManager" hit="Use this toggle button to choose whether you want [SWF] and [UnloadSWF] messages to be shown in Flex debug console. Note that toggling the button doesn't change current console content, filter is applied only to new messages that will appear." />
+    <option name="change" path="ActionManager" hit="Use this toggle button to choose whether you want [SWF] and [UnloadSWF] messages to be shown in Flex debug console. Note that toggling the button doesn't change current console content, filter is applied only to new messages that will appear." />
+    <option name="choose" path="ActionManager" hit="Use this toggle button to choose whether you want [SWF] and [UnloadSWF] messages to be shown in Flex debug console. Note that toggling the button doesn't change current console content, filter is applied only to new messages that will appear." />
+    <option name="console" path="ActionManager" hit="Use this toggle button to choose whether you want [SWF] and [UnloadSWF] messages to be shown in Flex debug console. Note that toggling the button doesn't change current console content, filter is applied only to new messages that will appear." />
+    <option name="content" path="ActionManager" hit="Use this toggle button to choose whether you want [SWF] and [UnloadSWF] messages to be shown in Flex debug console. Note that toggling the button doesn't change current console content, filter is applied only to new messages that will appear." />
+    <option name="current" path="ActionManager" hit="Use this toggle button to choose whether you want [SWF] and [UnloadSWF] messages to be shown in Flex debug console. Note that toggling the button doesn't change current console content, filter is applied only to new messages that will appear." />
+    <option name="debug" path="ActionManager" hit="Use this toggle button to choose whether you want [SWF] and [UnloadSWF] messages to be shown in Flex debug console. Note that toggling the button doesn't change current console content, filter is applied only to new messages that will appear." />
+    <option name="doesn" path="ActionManager" hit="Use this toggle button to choose whether you want [SWF] and [UnloadSWF] messages to be shown in Flex debug console. Note that toggling the button doesn't change current console content, filter is applied only to new messages that will appear." />
+    <option name="filter" path="ActionManager" hit="Use this toggle button to choose whether you want [SWF] and [UnloadSWF] messages to be shown in Flex debug console. Note that toggling the button doesn't change current console content, filter is applied only to new messages that will appear." />
+    <option name="flex" path="ActionManager" hit="Use this toggle button to choose whether you want [SWF] and [UnloadSWF] messages to be shown in Flex debug console. Note that toggling the button doesn't change current console content, filter is applied only to new messages that will appear." />
+    <option name="in" path="ActionManager" hit="Use this toggle button to choose whether you want [SWF] and [UnloadSWF] messages to be shown in Flex debug console. Note that toggling the button doesn't change current console content, filter is applied only to new messages that will appear." />
+    <option name="is" path="ActionManager" hit="Use this toggle button to choose whether you want [SWF] and [UnloadSWF] messages to be shown in Flex debug console. Note that toggling the button doesn't change current console content, filter is applied only to new messages that will appear." />
+    <option name="messages" path="ActionManager" hit="Use this toggle button to choose whether you want [SWF] and [UnloadSWF] messages to be shown in Flex debug console. Note that toggling the button doesn't change current console content, filter is applied only to new messages that will appear." />
+    <option name="new" path="ActionManager" hit="Use this toggle button to choose whether you want [SWF] and [UnloadSWF] messages to be shown in Flex debug console. Note that toggling the button doesn't change current console content, filter is applied only to new messages that will appear." />
+    <option name="note" path="ActionManager" hit="Use this toggle button to choose whether you want [SWF] and [UnloadSWF] messages to be shown in Flex debug console. Note that toggling the button doesn't change current console content, filter is applied only to new messages that will appear." />
+    <option name="only" path="ActionManager" hit="Use this toggle button to choose whether you want [SWF] and [UnloadSWF] messages to be shown in Flex debug console. Note that toggling the button doesn't change current console content, filter is applied only to new messages that will appear." />
+    <option name="shown" path="ActionManager" hit="Use this toggle button to choose whether you want [SWF] and [UnloadSWF] messages to be shown in Flex debug console. Note that toggling the button doesn't change current console content, filter is applied only to new messages that will appear." />
+    <option name="swf" path="ActionManager" hit="Use this toggle button to choose whether you want [SWF] and [UnloadSWF] messages to be shown in Flex debug console. Note that toggling the button doesn't change current console content, filter is applied only to new messages that will appear." />
+    <option name="t" path="ActionManager" hit="Use this toggle button to choose whether you want [SWF] and [UnloadSWF] messages to be shown in Flex debug console. Note that toggling the button doesn't change current console content, filter is applied only to new messages that will appear." />
+    <option name="that" path="ActionManager" hit="Use this toggle button to choose whether you want [SWF] and [UnloadSWF] messages to be shown in Flex debug console. Note that toggling the button doesn't change current console content, filter is applied only to new messages that will appear." />
+    <option name="the" path="ActionManager" hit="Use this toggle button to choose whether you want [SWF] and [UnloadSWF] messages to be shown in Flex debug console. Note that toggling the button doesn't change current console content, filter is applied only to new messages that will appear." />
+    <option name="this" path="ActionManager" hit="Use this toggle button to choose whether you want [SWF] and [UnloadSWF] messages to be shown in Flex debug console. Note that toggling the button doesn't change current console content, filter is applied only to new messages that will appear." />
+    <option name="to" path="ActionManager" hit="Use this toggle button to choose whether you want [SWF] and [UnloadSWF] messages to be shown in Flex debug console. Note that toggling the button doesn't change current console content, filter is applied only to new messages that will appear." />
+    <option name="toggle" path="ActionManager" hit="Use this toggle button to choose whether you want [SWF] and [UnloadSWF] messages to be shown in Flex debug console. Note that toggling the button doesn't change current console content, filter is applied only to new messages that will appear." />
+    <option name="toggling" path="ActionManager" hit="Use this toggle button to choose whether you want [SWF] and [UnloadSWF] messages to be shown in Flex debug console. Note that toggling the button doesn't change current console content, filter is applied only to new messages that will appear." />
+    <option name="unloadswf" path="ActionManager" hit="Use this toggle button to choose whether you want [SWF] and [UnloadSWF] messages to be shown in Flex debug console. Note that toggling the button doesn't change current console content, filter is applied only to new messages that will appear." />
+    <option name="use" path="ActionManager" hit="Use this toggle button to choose whether you want [SWF] and [UnloadSWF] messages to be shown in Flex debug console. Note that toggling the button doesn't change current console content, filter is applied only to new messages that will appear." />
+    <option name="want" path="ActionManager" hit="Use this toggle button to choose whether you want [SWF] and [UnloadSWF] messages to be shown in Flex debug console. Note that toggling the button doesn't change current console content, filter is applied only to new messages that will appear." />
+    <option name="whether" path="ActionManager" hit="Use this toggle button to choose whether you want [SWF] and [UnloadSWF] messages to be shown in Flex debug console. Note that toggling the button doesn't change current console content, filter is applied only to new messages that will appear." />
+    <option name="will" path="ActionManager" hit="Use this toggle button to choose whether you want [SWF] and [UnloadSWF] messages to be shown in Flex debug console. Note that toggling the button doesn't change current console content, filter is applied only to new messages that will appear." />
+    <option name="you" path="ActionManager" hit="Use this toggle button to choose whether you want [SWF] and [UnloadSWF] messages to be shown in Flex debug console. Note that toggling the button doesn't change current console content, filter is applied only to new messages that will appear." />
+    <option name="setup" path="ActionManager" hit="setUp()" />
+    <option name="teardown" path="ActionManager" hit="tearDown()" />
+    <option name="tostring" path="ActionManager" hit="toString()" />
+  </configurable>
+  <configurable id="editor.preferences.import" configurable_name="Auto Import">
+    <option name="actionscript" hit="ActionScript" />
+    <option name="add" hit="Add unambiguous imports on the fly" />
+    <option name="fly" hit="Add unambiguous imports on the fly" />
+    <option name="imports" hit="Add unambiguous imports on the fly" />
+    <option name="on" hit="Add unambiguous imports on the fly" />
+    <option name="the" hit="Add unambiguous imports on the fly" />
+    <option name="unambiguous" hit="Add unambiguous imports on the fly" />
+  </configurable>
+  <configurable id="reference.settingsdialog.IDE.editor.colors.ActionScript" configurable_name="ActionScript">
+    <option name="actionscript" hit="ActionScript" />
+    <option name="bad" hit="Bad character" />
+    <option name="character" hit="Bad character" />
+    <option name="block" hit="Block comment" />
+    <option name="comment" hit="Block comment" />
+    <option name="braces" hit="Braces" />
+    <option name="brackets" hit="Brackets" />
+    <option name="class" hit="Class" />
+    <option name="comma" hit="Comma" />
+    <option name="comment" hit="Doc comment" />
+    <option name="doc" hit="Doc comment" />
+    <option name="documentation" hit="Documentation markup" />
+    <option name="markup" hit="Documentation markup" />
+    <option name="documentation" hit="Documentation tag" />
+    <option name="tag" hit="Documentation tag" />
+    <option name="dot" hit="Dot" />
+    <option name="function" hit="Global function" />
+    <option name="global" hit="Global function" />
+    <option name="global" hit="Global variable" />
+    <option name="variable" hit="Global variable" />
+    <option name="function" hit="Instance member function" />
+    <option name="instance" hit="Instance member function" />
+    <option name="member" hit="Instance member function" />
+    <option name="instance" hit="Instance member variable" />
+    <option name="member" hit="Instance member variable" />
+    <option name="variable" hit="Instance member variable" />
+    <option name="interface" hit="Interface" />
+    <option name="escape" hit="Invalid string escape" />
+    <option name="invalid" hit="Invalid string escape" />
+    <option name="string" hit="Invalid string escape" />
+    <option name="keyword" hit="Keyword" />
+    <option name="comment" hit="Line comment" />
+    <option name="line" hit="Line comment" />
+    <option name="local" hit="Local variable" />
+    <option name="variable" hit="Local variable" />
+    <option name="metadata" hit="Metadata" />
+    <option name="number" hit="Number" />
+    <option name="operation" hit="Operation" />
+    <option name="parameter" hit="Parameter" />
+    <option name="parenthesis" hit="Parenthesis" />
+    <option name="expression" hit="Regular expression" />
+    <option name="regular" hit="Regular expression" />
+    <option name="semicolon" hit="Semicolon" />
+    <option name="function" hit="Static member function" />
+    <option name="member" hit="Static member function" />
+    <option name="static" hit="Static member function" />
+    <option name="member" hit="Static member variable" />
+    <option name="static" hit="Static member variable" />
+    <option name="variable" hit="Static member variable" />
+    <option name="string" hit="String" />
+    <option name="escape" hit="Valid string escape" />
+    <option name="string" hit="Valid string escape" />
+    <option name="valid" hit="Valid string escape" />
+  </configurable>
+  <configurable id="preferences.sourceCode.ActionScript" configurable_name="ActionScript">
+    <option name="" path="Punctuation" hit="" />
+    <option name="" path="Tabs and Indents" hit=" Indent package statement children" />
+    <option name="children" path="Tabs and Indents" hit=" Indent package statement children" />
+    <option name="indent" path="Tabs and Indents" hit=" Indent package statement children" />
+    <option name="package" path="Tabs and Indents" hit=" Indent package statement children" />
+    <option name="statement" path="Tabs and Indents" hit=" Indent package statement children" />
+    <option name="actionscript" hit="ActionScript" />
+    <option name="a" path="Code Generation" hit="Add a space at comment start" />
+    <option name="add" path="Code Generation" hit="Add a space at comment start" />
+    <option name="at" path="Code Generation" hit="Add a space at comment start" />
+    <option name="comment" path="Code Generation" hit="Add a space at comment start" />
+    <option name="space" path="Code Generation" hit="Add a space at comment start" />
+    <option name="start" path="Code Generation" hit="Add a space at comment start" />
+    <option name="after" path="Blank Lines" hit="After imports:" />
+    <option name="imports" path="Blank Lines" hit="After imports:" />
+    <option name="after" path="Blank Lines" hit="After package statement:" />
+    <option name="package" path="Blank Lines" hit="After package statement:" />
+    <option name="statement" path="Blank Lines" hit="After package statement:" />
+    <option name="around" path="Blank Lines" hit="Around function:" />
+    <option name="function" path="Blank Lines" hit="Around function:" />
+    <option name="around" path="Blank Lines" hit="Around method:" />
+    <option name="method" path="Blank Lines" hit="Around method:" />
+    <option name="arrangement" path="Arrangement" hit="Arrangement" />
+    <option name="before" path="Blank Lines" hit="Before imports:" />
+    <option name="imports" path="Blank Lines" hit="Before imports:" />
+    <option name="before" path="Blank Lines" hit="Before package statement:" />
+    <option name="package" path="Blank Lines" hit="Before package statement:" />
+    <option name="statement" path="Blank Lines" hit="Before package statement:" />
+    <option name="blank" path="Blank Lines" hit="Blank Lines" />
+    <option name="lines" path="Blank Lines" hit="Blank Lines" />
+    <option name="at" path="Code Generation" hit="Block comment at first column" />
+    <option name="block" path="Code Generation" hit="Block comment at first column" />
+    <option name="column" path="Code Generation" hit="Block comment at first column" />
+    <option name="comment" path="Code Generation" hit="Block comment at first column" />
+    <option name="first" path="Code Generation" hit="Block comment at first column" />
+    <option name="appcomponent" path="Code Generation" hit="Camel case (appComponent)" />
+    <option name="camel" path="Code Generation" hit="Camel case (appComponent)" />
+    <option name="case" path="Code Generation" hit="Camel case (appComponent)" />
+    <option name="code" path="Code Generation" hit="Code Generation" />
+    <option name="generation" path="Code Generation" hit="Code Generation" />
+    <option name="comments" path="Code Generation" hit="Comments" />
+    <option name="continuation" path="Tabs and Indents" hit="Continuation indent:" />
+    <option name="indent" path="Tabs and Indents" hit="Continuation indent:" />
+    <option name="app-component" path="Code Generation" hit="Dash case (app-component)" />
+    <option name="case" path="Code Generation" hit="Dash case (app-component)" />
+    <option name="dash" path="Code Generation" hit="Dash case (app-component)" />
+    <option name="case" path="Code Generation" hit="Dash case with suffix (my-app.component)" />
+    <option name="component" path="Code Generation" hit="Dash case with suffix (my-app.component)" />
+    <option name="dash" path="Code Generation" hit="Dash case with suffix (my-app.component)" />
+    <option name="my-app" path="Code Generation" hit="Dash case with suffix (my-app.component)" />
+    <option name="suffix" path="Code Generation" hit="Dash case with suffix (my-app.component)" />
+    <option name="with" path="Code Generation" hit="Dash case with suffix (my-app.component)" />
+    <option name="disable" hit="Disable" />
+    <option name="don" path="Punctuation" hit="Don't use" />
+    <option name="t" path="Punctuation" hit="Don't use" />
+    <option name="use" path="Punctuation" hit="Don't use" />
+    <option name="field" path="Code Generation" hit="Field prefix:" />
+    <option name="prefix" path="Code Generation" hit="Field prefix:" />
+    <option name="convention" path="Code Generation" hit="Filename convention:" />
+    <option name="filename" path="Code Generation" hit="Filename convention:" />
+    <option name="grouping" path="Arrangement" hit="Grouping rules:" />
+    <option name="rules" path="Arrangement" hit="Grouping rules:" />
+    <option name="code" path="Blank Lines" hit="In code:" />
+    <option name="in" path="Blank Lines" hit="In code:" />
+    <option name="in" path="Code Generation" hit="Include types in JSDoc" />
+    <option name="include" path="Code Generation" hit="Include types in JSDoc" />
+    <option name="jsdoc" path="Code Generation" hit="Include types in JSDoc" />
+    <option name="types" path="Code Generation" hit="Include types in JSDoc" />
+    <option name="indent" path="Tabs and Indents" hit="Indent:" />
+    <option name="keep" path="Punctuation" hit="Keep" />
+    <option name="blank" path="Blank Lines" hit="Keep Maximum Blank Lines" />
+    <option name="keep" path="Blank Lines" hit="Keep Maximum Blank Lines" />
+    <option name="lines" path="Blank Lines" hit="Keep Maximum Blank Lines" />
+    <option name="maximum" path="Blank Lines" hit="Keep Maximum Blank Lines" />
+    <option name="empty" path="Tabs and Indents" hit="Keep indents on empty lines" />
+    <option name="indents" path="Tabs and Indents" hit="Keep indents on empty lines" />
+    <option name="keep" path="Tabs and Indents" hit="Keep indents on empty lines" />
+    <option name="lines" path="Tabs and Indents" hit="Keep indents on empty lines" />
+    <option name="on" path="Tabs and Indents" hit="Keep indents on empty lines" />
+    <option name="at" path="Code Generation" hit="Line comment at first column" />
+    <option name="column" path="Code Generation" hit="Line comment at first column" />
+    <option name="comment" path="Code Generation" hit="Line comment at first column" />
+    <option name="first" path="Code Generation" hit="Line comment at first column" />
+    <option name="line" path="Code Generation" hit="Line comment at first column" />
+    <option name="loading" hit="Loading..." />
+    <option name="matching" path="Arrangement" hit="Matching rules:" />
+    <option name="rules" path="Arrangement" hit="Matching rules:" />
+    <option name="blank" path="Blank Lines" hit="Minimum Blank Lines" />
+    <option name="lines" path="Blank Lines" hit="Minimum Blank Lines" />
+    <option name="minimum" path="Blank Lines" hit="Minimum Blank Lines" />
+    <option name="conventions" path="Code Generation" hit="Naming conventions" />
+    <option name="naming" path="Code Generation" hit="Naming conventions" />
+    <option name="appcomponent" path="Code Generation" hit="Pascal case (AppComponent)" />
+    <option name="case" path="Code Generation" hit="Pascal case (AppComponent)" />
+    <option name="pascal" path="Code Generation" hit="Pascal case (AppComponent)" />
+    <option name="as" path="Code Generation" hit="Prefer 'as' type casts" />
+    <option name="casts" path="Code Generation" hit="Prefer 'as' type casts" />
+    <option name="prefer" path="Code Generation" hit="Prefer 'as' type casts" />
+    <option name="type" path="Code Generation" hit="Prefer 'as' type casts" />
+    <option name="prefix" path="Code Generation" hit="Property prefix:" />
+    <option name="property" path="Code Generation" hit="Property prefix:" />
+    <option name="punctuation" path="Punctuation" hit="Punctuation" />
+    <option name="remove" path="Punctuation" hit="Remove" />
+    <option name="case" path="Code Generation" hit="Reuse case of current file" />
+    <option name="current" path="Code Generation" hit="Reuse case of current file" />
+    <option name="file" path="Code Generation" hit="Reuse case of current file" />
+    <option name="of" path="Code Generation" hit="Reuse case of current file" />
+    <option name="reuse" path="Code Generation" hit="Reuse case of current file" />
+    <option name="scheme" hit="Scheme:" />
+    <option name="from" hit="Set from..." />
+    <option name="set" hit="Set from..." />
+    <option name="smart" path="Tabs and Indents" hit="Smart tabs" />
+    <option name="tabs" path="Tabs and Indents" hit="Smart tabs" />
+    <option name="app_component" path="Code Generation" hit="Snake case (app_component)" />
+    <option name="case" path="Code Generation" hit="Snake case (app_component)" />
+    <option name="snake" path="Code Generation" hit="Snake case (app_component)" />
+    <option name="spaces" path="Spaces" hit="Spaces" />
+    <option name="size" path="Tabs and Indents" hit="Tab size:" />
+    <option name="tab" path="Tabs and Indents" hit="Tab size:" />
+    <option name="and" path="Tabs and Indents" hit="Tabs and Indents" />
+    <option name="indents" path="Tabs and Indents" hit="Tabs and Indents" />
+    <option name="tabs" path="Tabs and Indents" hit="Tabs and Indents" />
+    <option name="comma" path="Punctuation" hit="Trailing comma:" />
+    <option name="trailing" path="Punctuation" hit="Trailing comma:" />
+    <option name="use" path="Punctuation" hit="Use" />
+    <option name="modifier" path="Code Generation" hit="Use 'public' modifier" />
+    <option name="public" path="Code Generation" hit="Use 'public' modifier" />
+    <option name="use" path="Code Generation" hit="Use 'public' modifier" />
+    <option name="character" path="Tabs and Indents" hit="Use tab character" />
+    <option name="tab" path="Tabs and Indents" hit="Use tab character" />
+    <option name="use" path="Tabs and Indents" hit="Use tab character" />
+    <option name="and" path="Wrapping and Braces" hit="Wrapping and Braces" />
+    <option name="braces" path="Wrapping and Braces" hit="Wrapping and Braces" />
+    <option name="wrapping" path="Wrapping and Braces" hit="Wrapping and Braces" />
+    <option name="always" path="Punctuation" hit="always" />
+    <option name="double" path="Punctuation" hit="double" />
+    <option name="code" path="Punctuation" hit="in new code" />
+    <option name="in" path="Punctuation" hit="in new code" />
+    <option name="new" path="Punctuation" hit="in new code" />
+    <option name="quotes" path="Punctuation" hit="quotes" />
+    <option name="semicolon" path="Punctuation" hit="semicolon to terminate statements" />
+    <option name="statements" path="Punctuation" hit="semicolon to terminate statements" />
+    <option name="terminate" path="Punctuation" hit="semicolon to terminate statements" />
+    <option name="to" path="Punctuation" hit="semicolon to terminate statements" />
+    <option name="single" path="Punctuation" hit="single" />
+    <option name="" path="Wrapping and Braces" hit="':' signs on next line" />
+    <option name="line" path="Wrapping and Braces" hit="':' signs on next line" />
+    <option name="next" path="Wrapping and Braces" hit="':' signs on next line" />
+    <option name="on" path="Wrapping and Braces" hit="':' signs on next line" />
+    <option name="signs" path="Wrapping and Braces" hit="':' signs on next line" />
+    <option name="" path="Wrapping and Braces" hit="'?' and ':' signs on next line" />
+    <option name="and" path="Wrapping and Braces" hit="'?' and ':' signs on next line" />
+    <option name="line" path="Wrapping and Braces" hit="'?' and ':' signs on next line" />
+    <option name="next" path="Wrapping and Braces" hit="'?' and ':' signs on next line" />
+    <option name="on" path="Wrapping and Braces" hit="'?' and ':' signs on next line" />
+    <option name="signs" path="Wrapping and Braces" hit="'?' and ':' signs on next line" />
+    <option name="" path="Spaces" hit="'catch' keyword" />
+    <option name="catch" path="Spaces" hit="'catch' keyword" />
+    <option name="keyword" path="Spaces" hit="'catch' keyword" />
+    <option name="" path="Spaces" hit="'catch' left brace" />
+    <option name="brace" path="Spaces" hit="'catch' left brace" />
+    <option name="catch" path="Spaces" hit="'catch' left brace" />
+    <option name="left" path="Spaces" hit="'catch' left brace" />
+    <option name="" path="Wrapping and Braces" hit="'catch' on new line" />
+    <option name="catch" path="Wrapping and Braces" hit="'catch' on new line" />
+    <option name="line" path="Wrapping and Braces" hit="'catch' on new line" />
+    <option name="new" path="Wrapping and Braces" hit="'catch' on new line" />
+    <option name="on" path="Wrapping and Braces" hit="'catch' on new line" />
+    <option name="" path="Spaces" hit="'catch' parentheses" />
+    <option name="catch" path="Spaces" hit="'catch' parentheses" />
+    <option name="parentheses" path="Spaces" hit="'catch' parentheses" />
+    <option name="" path="Wrapping and Braces" hit="'do ... while()' statement" />
+    <option name="do" path="Wrapping and Braces" hit="'do ... while()' statement" />
+    <option name="statement" path="Wrapping and Braces" hit="'do ... while()' statement" />
+    <option name="while" path="Wrapping and Braces" hit="'do ... while()' statement" />
+    <option name="" path="Spaces" hit="'do' left brace" />
+    <option name="brace" path="Spaces" hit="'do' left brace" />
+    <option name="do" path="Spaces" hit="'do' left brace" />
+    <option name="left" path="Spaces" hit="'do' left brace" />
+    <option name="" path="Spaces" hit="'else' keyword" />
+    <option name="else" path="Spaces" hit="'else' keyword" />
+    <option name="keyword" path="Spaces" hit="'else' keyword" />
+    <option name="" path="Spaces" hit="'else' left brace" />
+    <option name="brace" path="Spaces" hit="'else' left brace" />
+    <option name="else" path="Spaces" hit="'else' left brace" />
+    <option name="left" path="Spaces" hit="'else' left brace" />
+    <option name="" path="Wrapping and Braces" hit="'else' on new line" />
+    <option name="else" path="Wrapping and Braces" hit="'else' on new line" />
+    <option name="line" path="Wrapping and Braces" hit="'else' on new line" />
+    <option name="new" path="Wrapping and Braces" hit="'else' on new line" />
+    <option name="on" path="Wrapping and Braces" hit="'else' on new line" />
+    <option name="" path="Spaces" hit="'finally' keyword" />
+    <option name="finally" path="Spaces" hit="'finally' keyword" />
+    <option name="keyword" path="Spaces" hit="'finally' keyword" />
+    <option name="" path="Spaces" hit="'finally' left brace" />
+    <option name="brace" path="Spaces" hit="'finally' left brace" />
+    <option name="finally" path="Spaces" hit="'finally' left brace" />
+    <option name="left" path="Spaces" hit="'finally' left brace" />
+    <option name="" path="Wrapping and Braces" hit="'finally' on new line" />
+    <option name="finally" path="Wrapping and Braces" hit="'finally' on new line" />
+    <option name="line" path="Wrapping and Braces" hit="'finally' on new line" />
+    <option name="new" path="Wrapping and Braces" hit="'finally' on new line" />
+    <option name="on" path="Wrapping and Braces" hit="'finally' on new line" />
+    <option name="" path="Spaces" hit="'for' left brace" />
+    <option name="brace" path="Spaces" hit="'for' left brace" />
+    <option name="for" path="Spaces" hit="'for' left brace" />
+    <option name="left" path="Spaces" hit="'for' left brace" />
+    <option name="" path="Spaces" hit="'for' parentheses" />
+    <option name="for" path="Spaces" hit="'for' parentheses" />
+    <option name="parentheses" path="Spaces" hit="'for' parentheses" />
+    <option name="" path="Wrapping and Braces" hit="'for()' statement" />
+    <option name="for" path="Wrapping and Braces" hit="'for()' statement" />
+    <option name="statement" path="Wrapping and Braces" hit="'for()' statement" />
+    <option name="" path="Spaces" hit="'if' left brace" />
+    <option name="brace" path="Spaces" hit="'if' left brace" />
+    <option name="if" path="Spaces" hit="'if' left brace" />
+    <option name="left" path="Spaces" hit="'if' left brace" />
+    <option name="" path="Spaces" hit="'if' parentheses" />
+    <option name="if" path="Spaces" hit="'if' parentheses" />
+    <option name="parentheses" path="Spaces" hit="'if' parentheses" />
+    <option name="" path="Wrapping and Braces" hit="'if()' statement" />
+    <option name="if" path="Wrapping and Braces" hit="'if()' statement" />
+    <option name="statement" path="Wrapping and Braces" hit="'if()' statement" />
+    <option name="" path="Spaces" hit="'switch' left brace" />
+    <option name="brace" path="Spaces" hit="'switch' left brace" />
+    <option name="left" path="Spaces" hit="'switch' left brace" />
+    <option name="switch" path="Spaces" hit="'switch' left brace" />
+    <option name="" path="Spaces" hit="'switch' parentheses" />
+    <option name="parentheses" path="Spaces" hit="'switch' parentheses" />
+    <option name="switch" path="Spaces" hit="'switch' parentheses" />
+    <option name="" path="Wrapping and Braces" hit="'switch' statement" />
+    <option name="statement" path="Wrapping and Braces" hit="'switch' statement" />
+    <option name="switch" path="Wrapping and Braces" hit="'switch' statement" />
+    <option name="" path="Spaces" hit="'try' left brace" />
+    <option name="brace" path="Spaces" hit="'try' left brace" />
+    <option name="left" path="Spaces" hit="'try' left brace" />
+    <option name="try" path="Spaces" hit="'try' left brace" />
+    <option name="" path="Wrapping and Braces" hit="'try' statement" />
+    <option name="statement" path="Wrapping and Braces" hit="'try' statement" />
+    <option name="try" path="Wrapping and Braces" hit="'try' statement" />
+    <option name="" path="Wrapping and Braces" hit="'try-with-resources'" />
+    <option name="try-with-resources" path="Wrapping and Braces" hit="'try-with-resources'" />
+    <option name="" path="Spaces" hit="'while' keyword" />
+    <option name="keyword" path="Spaces" hit="'while' keyword" />
+    <option name="while" path="Spaces" hit="'while' keyword" />
+    <option name="" path="Spaces" hit="'while' left brace" />
+    <option name="brace" path="Spaces" hit="'while' left brace" />
+    <option name="left" path="Spaces" hit="'while' left brace" />
+    <option name="while" path="Spaces" hit="'while' left brace" />
+    <option name="" path="Wrapping and Braces" hit="'while' on new line" />
+    <option name="line" path="Wrapping and Braces" hit="'while' on new line" />
+    <option name="new" path="Wrapping and Braces" hit="'while' on new line" />
+    <option name="on" path="Wrapping and Braces" hit="'while' on new line" />
+    <option name="while" path="Wrapping and Braces" hit="'while' on new line" />
+    <option name="" path="Spaces" hit="'while' parentheses" />
+    <option name="parentheses" path="Spaces" hit="'while' parentheses" />
+    <option name="while" path="Spaces" hit="'while' parentheses" />
+    <option name="" path="Wrapping and Braces" hit="'while()' statement" />
+    <option name="statement" path="Wrapping and Braces" hit="'while()' statement" />
+    <option name="while" path="Wrapping and Braces" hit="'while()' statement" />
+    <option name="-" path="Spaces" hit="Additive operators (+, -)" />
+    <option name="additive" path="Spaces" hit="Additive operators (+, -)" />
+    <option name="operators" path="Spaces" hit="Additive operators (+, -)" />
+    <option name="after" path="Spaces" hit="After '...' in rest parameter" />
+    <option name="in" path="Spaces" hit="After '...' in rest parameter" />
+    <option name="parameter" path="Spaces" hit="After '...' in rest parameter" />
+    <option name="rest" path="Spaces" hit="After '...' in rest parameter" />
+    <option name="after" path="Spaces" hit="After ':'" />
+    <option name="after" path="Spaces" hit="After '?'" />
+    <option name="after" path="Spaces" hit="After comma" />
+    <option name="comma" path="Spaces" hit="After comma" />
+    <option name="after" path="Spaces" hit="After property name-value separator ':'" />
+    <option name="name-value" path="Spaces" hit="After property name-value separator ':'" />
+    <option name="property" path="Spaces" hit="After property name-value separator ':'" />
+    <option name="separator" path="Spaces" hit="After property name-value separator ':'" />
+    <option name="after" path="Spaces" hit="After type reference colon ':'" />
+    <option name="colon" path="Spaces" hit="After type reference colon ':'" />
+    <option name="reference" path="Spaces" hit="After type reference colon ':'" />
+    <option name="type" path="Spaces" hit="After type reference colon ':'" />
+    <option name="align" path="Wrapping and Braces" hit="Align" />
+    <option name="align" path="Wrapping and Braces" hit="Align 'throws' to method start" />
+    <option name="method" path="Wrapping and Braces" hit="Align 'throws' to method start" />
+    <option name="start" path="Wrapping and Braces" hit="Align 'throws' to method start" />
+    <option name="throws" path="Wrapping and Braces" hit="Align 'throws' to method start" />
+    <option name="to" path="Wrapping and Braces" hit="Align 'throws' to method start" />
+    <option name="align" path="Wrapping and Braces" hit="Align assignments in columns" />
+    <option name="assignments" path="Wrapping and Braces" hit="Align assignments in columns" />
+    <option name="columns" path="Wrapping and Braces" hit="Align assignments in columns" />
+    <option name="in" path="Wrapping and Braces" hit="Align assignments in columns" />
+    <option name="align" path="Wrapping and Braces" hit="Align fields in columns" />
+    <option name="columns" path="Wrapping and Braces" hit="Align fields in columns" />
+    <option name="fields" path="Wrapping and Braces" hit="Align fields in columns" />
+    <option name="in" path="Wrapping and Braces" hit="Align fields in columns" />
+    <option name="align" path="Wrapping and Braces" hit="Align multiline" />
+    <option name="multiline" path="Wrapping and Braces" hit="Align multiline" />
+    <option name="align" path="Wrapping and Braces" hit="Align parenthesised when multiline" />
+    <option name="multiline" path="Wrapping and Braces" hit="Align parenthesised when multiline" />
+    <option name="parenthesised" path="Wrapping and Braces" hit="Align parenthesised when multiline" />
+    <option name="when" path="Wrapping and Braces" hit="Align parenthesised when multiline" />
+    <option name="align" path="Wrapping and Braces" hit="Align simple methods in columns" />
+    <option name="columns" path="Wrapping and Braces" hit="Align simple methods in columns" />
+    <option name="in" path="Wrapping and Braces" hit="Align simple methods in columns" />
+    <option name="methods" path="Wrapping and Braces" hit="Align simple methods in columns" />
+    <option name="simple" path="Wrapping and Braces" hit="Align simple methods in columns" />
+    <option name="align" path="Wrapping and Braces" hit="Align variables in columns" />
+    <option name="columns" path="Wrapping and Braces" hit="Align variables in columns" />
+    <option name="in" path="Wrapping and Braces" hit="Align variables in columns" />
+    <option name="variables" path="Wrapping and Braces" hit="Align variables in columns" />
+    <option name="align" path="Wrapping and Braces" hit="Align when multiline" />
+    <option name="multiline" path="Wrapping and Braces" hit="Align when multiline" />
+    <option name="when" path="Wrapping and Braces" hit="Align when multiline" />
+    <option name="around" path="Spaces" hit="Around Operators" />
+    <option name="operators" path="Spaces" hit="Around Operators" />
+    <option name="array" path="Spaces" hit="Array brackets" />
+    <option name="brackets" path="Spaces" hit="Array brackets" />
+    <option name="array" path="Wrapping and Braces" hit="Array initializer" />
+    <option name="initializer" path="Wrapping and Braces" hit="Array initializer" />
+    <option name="assert" path="Wrapping and Braces" hit="Assert statement" />
+    <option name="statement" path="Wrapping and Braces" hit="Assert statement" />
+    <option name="assignment" path="Spaces" hit="Assignment operators (=, +=, ...)" />
+    <option name="operators" path="Spaces" hit="Assignment operators (=, +=, ...)" />
+    <option name="assignment" path="Wrapping and Braces" hit="Assignment sign on next line" />
+    <option name="line" path="Wrapping and Braces" hit="Assignment sign on next line" />
+    <option name="next" path="Wrapping and Braces" hit="Assignment sign on next line" />
+    <option name="on" path="Wrapping and Braces" hit="Assignment sign on next line" />
+    <option name="sign" path="Wrapping and Braces" hit="Assignment sign on next line" />
+    <option name="assignment" path="Wrapping and Braces" hit="Assignment statement" />
+    <option name="statement" path="Wrapping and Braces" hit="Assignment statement" />
+    <option name="before" path="Spaces" hit="Before ':'" />
+    <option name="before" path="Spaces" hit="Before '?'" />
+    <option name="before" path="Spaces" hit="Before 'for' semicolon" />
+    <option name="for" path="Spaces" hit="Before 'for' semicolon" />
+    <option name="semicolon" path="Spaces" hit="Before 'for' semicolon" />
+    <option name="before" path="Spaces" hit="Before Keywords" />
+    <option name="keywords" path="Spaces" hit="Before Keywords" />
+    <option name="before" path="Spaces" hit="Before Left Brace" />
+    <option name="brace" path="Spaces" hit="Before Left Brace" />
+    <option name="left" path="Spaces" hit="Before Left Brace" />
+    <option name="before" path="Spaces" hit="Before Parentheses" />
+    <option name="parentheses" path="Spaces" hit="Before Parentheses" />
+    <option name="before" path="Spaces" hit="Before comma" />
+    <option name="comma" path="Spaces" hit="Before comma" />
+    <option name="before" path="Spaces" hit="Before property name-value separator ':'" />
+    <option name="name-value" path="Spaces" hit="Before property name-value separator ':'" />
+    <option name="property" path="Spaces" hit="Before property name-value separator ':'" />
+    <option name="separator" path="Spaces" hit="Before property name-value separator ':'" />
+    <option name="before" path="Spaces" hit="Before type reference colon ':'" />
+    <option name="colon" path="Spaces" hit="Before type reference colon ':'" />
+    <option name="reference" path="Spaces" hit="Before type reference colon ':'" />
+    <option name="type" path="Spaces" hit="Before type reference colon ':'" />
+    <option name="binary" path="Wrapping and Braces" hit="Binary expressions" />
+    <option name="expressions" path="Wrapping and Braces" hit="Binary expressions" />
+    <option name="bitwise" path="Spaces" hit="Bitwise operators (&amp;, |, ^)" />
+    <option name="operators" path="Spaces" hit="Bitwise operators (&amp;, |, ^)" />
+    <option name="braces" path="Wrapping and Braces" hit="Braces placement" />
+    <option name="placement" path="Wrapping and Braces" hit="Braces placement" />
+    <option name="calls" path="Wrapping and Braces" hit="Chained method calls" />
+    <option name="chained" path="Wrapping and Braces" hit="Chained method calls" />
+    <option name="method" path="Wrapping and Braces" hit="Chained method calls" />
+    <option name="annotations" path="Wrapping and Braces" hit="Class annotations" />
+    <option name="class" path="Wrapping and Braces" hit="Class annotations" />
+    <option name="at" path="Wrapping and Braces" hit="Comment at first column" />
+    <option name="column" path="Wrapping and Braces" hit="Comment at first column" />
+    <option name="comment" path="Wrapping and Braces" hit="Comment at first column" />
+    <option name="first" path="Wrapping and Braces" hit="Comment at first column" />
+    <option name="comments" path="Wrapping and Braces" hit="Comments" />
+    <option name="control" path="Wrapping and Braces" hit="Control statement in one line" />
+    <option name="in" path="Wrapping and Braces" hit="Control statement in one line" />
+    <option name="line" path="Wrapping and Braces" hit="Control statement in one line" />
+    <option name="one" path="Wrapping and Braces" hit="Control statement in one line" />
+    <option name="statement" path="Wrapping and Braces" hit="Control statement in one line" />
+    <option name="a" path="Wrapping and Braces" hit="Each 'case' on a separate line" />
+    <option name="case" path="Wrapping and Braces" hit="Each 'case' on a separate line" />
+    <option name="each" path="Wrapping and Braces" hit="Each 'case' on a separate line" />
+    <option name="line" path="Wrapping and Braces" hit="Each 'case' on a separate line" />
+    <option name="on" path="Wrapping and Braces" hit="Each 'case' on a separate line" />
+    <option name="separate" path="Wrapping and Braces" hit="Each 'case' on a separate line" />
+    <option name="ensure" path="Wrapping and Braces" hit="Ensure right margin is not exceeded" />
+    <option name="exceeded" path="Wrapping and Braces" hit="Ensure right margin is not exceeded" />
+    <option name="is" path="Wrapping and Braces" hit="Ensure right margin is not exceeded" />
+    <option name="margin" path="Wrapping and Braces" hit="Ensure right margin is not exceeded" />
+    <option name="not" path="Wrapping and Braces" hit="Ensure right margin is not exceeded" />
+    <option name="right" path="Wrapping and Braces" hit="Ensure right margin is not exceeded" />
+    <option name="constants" path="Wrapping and Braces" hit="Enum constants" />
+    <option name="enum" path="Wrapping and Braces" hit="Enum constants" />
+    <option name="equality" path="Spaces" hit="Equality operators (==, !=)" />
+    <option name="operators" path="Spaces" hit="Equality operators (==, !=)" />
+    <option name="extends" path="Wrapping and Braces" hit="Extends/implements keyword" />
+    <option name="implements" path="Wrapping and Braces" hit="Extends/implements keyword" />
+    <option name="keyword" path="Wrapping and Braces" hit="Extends/implements keyword" />
+    <option name="extends" path="Wrapping and Braces" hit="Extends/implements list" />
+    <option name="implements" path="Wrapping and Braces" hit="Extends/implements list" />
+    <option name="list" path="Wrapping and Braces" hit="Extends/implements list" />
+    <option name="annotations" path="Wrapping and Braces" hit="Field annotations" />
+    <option name="field" path="Wrapping and Braces" hit="Field annotations" />
+    <option name="braces" path="Wrapping and Braces" hit="Force braces" />
+    <option name="force" path="Wrapping and Braces" hit="Force braces" />
+    <option name="declarations" path="Wrapping and Braces" hit="Group declarations" />
+    <option name="group" path="Wrapping and Braces" hit="Group declarations" />
+    <option name="grouping" path="Spaces" hit="Grouping parentheses" />
+    <option name="parentheses" path="Spaces" hit="Grouping parentheses" />
+    <option name="at" path="Wrapping and Braces" hit="Hard wrap at" />
+    <option name="hard" path="Wrapping and Braces" hit="Hard wrap at" />
+    <option name="wrap" path="Wrapping and Braces" hit="Hard wrap at" />
+    <option name="in" path="Spaces" hit="In Ternary Operator (?:)" />
+    <option name="operator" path="Spaces" hit="In Ternary Operator (?:)" />
+    <option name="ternary" path="Spaces" hit="In Ternary Operator (?:)" />
+    <option name="class" path="Wrapping and Braces" hit="In class declaration" />
+    <option name="declaration" path="Wrapping and Braces" hit="In class declaration" />
+    <option name="in" path="Wrapping and Braces" hit="In class declaration" />
+    <option name="expression" path="Wrapping and Braces" hit="In function expression" />
+    <option name="function" path="Wrapping and Braces" hit="In function expression" />
+    <option name="in" path="Wrapping and Braces" hit="In function expression" />
+    <option name="declaration" path="Wrapping and Braces" hit="In lambda declaration" />
+    <option name="in" path="Wrapping and Braces" hit="In lambda declaration" />
+    <option name="lambda" path="Wrapping and Braces" hit="In lambda declaration" />
+    <option name="declaration" path="Wrapping and Braces" hit="In method declaration" />
+    <option name="in" path="Wrapping and Braces" hit="In method declaration" />
+    <option name="method" path="Wrapping and Braces" hit="In method declaration" />
+    <option name="break" path="Wrapping and Braces" hit="Indent 'break' from 'case'" />
+    <option name="case" path="Wrapping and Braces" hit="Indent 'break' from 'case'" />
+    <option name="from" path="Wrapping and Braces" hit="Indent 'break' from 'case'" />
+    <option name="indent" path="Wrapping and Braces" hit="Indent 'break' from 'case'" />
+    <option name="branches" path="Wrapping and Braces" hit="Indent 'case' branches" />
+    <option name="case" path="Wrapping and Braces" hit="Indent 'case' branches" />
+    <option name="indent" path="Wrapping and Braces" hit="Indent 'case' branches" />
+    <option name="access" path="Spaces" hit="Index access brackets" />
+    <option name="brackets" path="Spaces" hit="Index access brackets" />
+    <option name="index" path="Spaces" hit="Index access brackets" />
+    <option name="keep" path="Wrapping and Braces" hit="Keep when reformatting" />
+    <option name="reformatting" path="Wrapping and Braces" hit="Keep when reformatting" />
+    <option name="when" path="Wrapping and Braces" hit="Keep when reformatting" />
+    <option name="breaks" path="Wrapping and Braces" hit="Line breaks" />
+    <option name="line" path="Wrapping and Braces" hit="Line breaks" />
+    <option name="annotations" path="Wrapping and Braces" hit="Local variable annotations" />
+    <option name="local" path="Wrapping and Braces" hit="Local variable annotations" />
+    <option name="variable" path="Wrapping and Braces" hit="Local variable annotations" />
+    <option name="logical" path="Spaces" hit="Logical operators (&amp;&amp;, ||)" />
+    <option name="operators" path="Spaces" hit="Logical operators (&amp;&amp;, ||)" />
+    <option name="annotations" path="Wrapping and Braces" hit="Method annotations" />
+    <option name="method" path="Wrapping and Braces" hit="Method annotations" />
+    <option name="arguments" path="Wrapping and Braces" hit="Method call arguments" />
+    <option name="call" path="Wrapping and Braces" hit="Method call arguments" />
+    <option name="method" path="Wrapping and Braces" hit="Method call arguments" />
+    <option name="call" path="Spaces" hit="Method call parentheses" />
+    <option name="method" path="Spaces" hit="Method call parentheses" />
+    <option name="parentheses" path="Spaces" hit="Method call parentheses" />
+    <option name="declaration" path="Wrapping and Braces" hit="Method declaration parameters" />
+    <option name="method" path="Wrapping and Braces" hit="Method declaration parameters" />
+    <option name="parameters" path="Wrapping and Braces" hit="Method declaration parameters" />
+    <option name="declaration" path="Spaces" hit="Method declaration parentheses" />
+    <option name="method" path="Spaces" hit="Method declaration parentheses" />
+    <option name="parentheses" path="Spaces" hit="Method declaration parentheses" />
+    <option name="brace" path="Spaces" hit="Method left brace" />
+    <option name="left" path="Spaces" hit="Method left brace" />
+    <option name="method" path="Spaces" hit="Method left brace" />
+    <option name="method" path="Wrapping and Braces" hit="Method parentheses" />
+    <option name="parentheses" path="Wrapping and Braces" hit="Method parentheses" />
+    <option name="list" path="Wrapping and Braces" hit="Modifier list" />
+    <option name="modifier" path="Wrapping and Braces" hit="Modifier list" />
+    <option name="expressions" path="Wrapping and Braces" hit="Multiple expressions in one line" />
+    <option name="in" path="Wrapping and Braces" hit="Multiple expressions in one line" />
+    <option name="line" path="Wrapping and Braces" hit="Multiple expressions in one line" />
+    <option name="multiple" path="Wrapping and Braces" hit="Multiple expressions in one line" />
+    <option name="one" path="Wrapping and Braces" hit="Multiple expressions in one line" />
+    <option name="multiplicative" path="Spaces" hit="Multiplicative operators (*, /, %)" />
+    <option name="operators" path="Spaces" hit="Multiplicative operators (*, /, %)" />
+    <option name="after" path="Wrapping and Braces" hit="New line after '('" />
+    <option name="line" path="Wrapping and Braces" hit="New line after '('" />
+    <option name="new" path="Wrapping and Braces" hit="New line after '('" />
+    <option name="after" path="Wrapping and Braces" hit="New line after '{'" />
+    <option name="line" path="Wrapping and Braces" hit="New line after '{'" />
+    <option name="new" path="Wrapping and Braces" hit="New line after '{'" />
+    <option name="braces" path="Spaces" hit="Object literal braces" />
+    <option name="literal" path="Spaces" hit="Object literal braces" />
+    <option name="object" path="Spaces" hit="Object literal braces" />
+    <option name="literals" path="Wrapping and Braces" hit="Object literals" />
+    <option name="object" path="Wrapping and Braces" hit="Object literals" />
+    <option name="objects" path="Wrapping and Braces" hit="Objects" />
+    <option name="line" path="Wrapping and Braces" hit="Operation sign on next line" />
+    <option name="next" path="Wrapping and Braces" hit="Operation sign on next line" />
+    <option name="on" path="Wrapping and Braces" hit="Operation sign on next line" />
+    <option name="operation" path="Wrapping and Braces" hit="Operation sign on next line" />
+    <option name="sign" path="Wrapping and Braces" hit="Operation sign on next line" />
+    <option name="other" path="Wrapping and Braces" hit="Other" />
+    <option name="annotations" path="Wrapping and Braces" hit="Parameter annotations" />
+    <option name="parameter" path="Wrapping and Braces" hit="Parameter annotations" />
+    <option name="line" path="Wrapping and Braces" hit="Place ')' on new line" />
+    <option name="new" path="Wrapping and Braces" hit="Place ')' on new line" />
+    <option name="on" path="Wrapping and Braces" hit="Place ')' on new line" />
+    <option name="place" path="Wrapping and Braces" hit="Place ')' on new line" />
+    <option name="line" path="Wrapping and Braces" hit="Place '}' on new line" />
+    <option name="new" path="Wrapping and Braces" hit="Place '}' on new line" />
+    <option name="on" path="Wrapping and Braces" hit="Place '}' on new line" />
+    <option name="place" path="Wrapping and Braces" hit="Place '}' on new line" />
+    <option name="operators" path="Spaces" hit="Relational operators (&lt;, &gt;, &lt;=, &gt;=)" />
+    <option name="relational" path="Spaces" hit="Relational operators (&lt;, &gt;, &lt;=, &gt;=)" />
+    <option name="operators" path="Spaces" hit="Shift operators (&lt;&lt;, &gt;&gt;, &gt;&gt;&gt;)" />
+    <option name="shift" path="Spaces" hit="Shift operators (&lt;&lt;, &gt;&gt;, &gt;&gt;&gt;)" />
+    <option name="blocks" path="Wrapping and Braces" hit="Simple blocks in one line" />
+    <option name="in" path="Wrapping and Braces" hit="Simple blocks in one line" />
+    <option name="line" path="Wrapping and Braces" hit="Simple blocks in one line" />
+    <option name="one" path="Wrapping and Braces" hit="Simple blocks in one line" />
+    <option name="simple" path="Wrapping and Braces" hit="Simple blocks in one line" />
+    <option name="classes" path="Wrapping and Braces" hit="Simple classes in one line" />
+    <option name="in" path="Wrapping and Braces" hit="Simple classes in one line" />
+    <option name="line" path="Wrapping and Braces" hit="Simple classes in one line" />
+    <option name="one" path="Wrapping and Braces" hit="Simple classes in one line" />
+    <option name="simple" path="Wrapping and Braces" hit="Simple classes in one line" />
+    <option name="in" path="Wrapping and Braces" hit="Simple lambdas in one line" />
+    <option name="lambdas" path="Wrapping and Braces" hit="Simple lambdas in one line" />
+    <option name="line" path="Wrapping and Braces" hit="Simple lambdas in one line" />
+    <option name="one" path="Wrapping and Braces" hit="Simple lambdas in one line" />
+    <option name="simple" path="Wrapping and Braces" hit="Simple lambdas in one line" />
+    <option name="in" path="Wrapping and Braces" hit="Simple methods in one line" />
+    <option name="line" path="Wrapping and Braces" hit="Simple methods in one line" />
+    <option name="methods" path="Wrapping and Braces" hit="Simple methods in one line" />
+    <option name="one" path="Wrapping and Braces" hit="Simple methods in one line" />
+    <option name="simple" path="Wrapping and Braces" hit="Simple methods in one line" />
+    <option name="else" path="Wrapping and Braces" hit="Special 'else if' treatment" />
+    <option name="if" path="Wrapping and Braces" hit="Special 'else if' treatment" />
+    <option name="special" path="Wrapping and Braces" hit="Special 'else if' treatment" />
+    <option name="treatment" path="Wrapping and Braces" hit="Special 'else if' treatment" />
+    <option name="call" path="Wrapping and Braces" hit="Take priority over call chain wrapping" />
+    <option name="chain" path="Wrapping and Braces" hit="Take priority over call chain wrapping" />
+    <option name="over" path="Wrapping and Braces" hit="Take priority over call chain wrapping" />
+    <option name="priority" path="Wrapping and Braces" hit="Take priority over call chain wrapping" />
+    <option name="take" path="Wrapping and Braces" hit="Take priority over call chain wrapping" />
+    <option name="wrapping" path="Wrapping and Braces" hit="Take priority over call chain wrapping" />
+    <option name="operation" path="Wrapping and Braces" hit="Ternary operation" />
+    <option name="ternary" path="Wrapping and Braces" hit="Ternary operation" />
+    <option name="keyword" path="Wrapping and Braces" hit="Throws keyword" />
+    <option name="throws" path="Wrapping and Braces" hit="Throws keyword" />
+    <option name="list" path="Wrapping and Braces" hit="Throws list" />
+    <option name="throws" path="Wrapping and Braces" hit="Throws list" />
+    <option name="-" path="Spaces" hit="Unary operators (!, -, +, ++, --)" />
+    <option name="--" path="Spaces" hit="Unary operators (!, -, +, ++, --)" />
+    <option name="operators" path="Spaces" hit="Unary operators (!, -, +, ++, --)" />
+    <option name="unary" path="Spaces" hit="Unary operators (!, -, +, ++, --)" />
+    <option name="declarations" path="Wrapping and Braces" hit="Variable declarations" />
+    <option name="variable" path="Wrapping and Braces" hit="Variable declarations" />
+    <option name="guides" path="Wrapping and Braces" hit="Visual guides" />
+    <option name="visual" path="Wrapping and Braces" hit="Visual guides" />
+    <option name="within" path="Spaces" hit="Within" />
+    <option name="after" path="Wrapping and Braces" hit="Wrap after modifier list" />
+    <option name="list" path="Wrapping and Braces" hit="Wrap after modifier list" />
+    <option name="modifier" path="Wrapping and Braces" hit="Wrap after modifier list" />
+    <option name="wrap" path="Wrapping and Braces" hit="Wrap after modifier list" />
+    <option name="at" path="Wrapping and Braces" hit="Wrap at right margin" />
+    <option name="margin" path="Wrapping and Braces" hit="Wrap at right margin" />
+    <option name="right" path="Wrapping and Braces" hit="Wrap at right margin" />
+    <option name="wrap" path="Wrapping and Braces" hit="Wrap at right margin" />
+    <option name="call" path="Wrapping and Braces" hit="Wrap first call" />
+    <option name="first" path="Wrapping and Braces" hit="Wrap first call" />
+    <option name="wrap" path="Wrapping and Braces" hit="Wrap first call" />
+    <option name="on" path="Wrapping and Braces" hit="Wrap on typing" />
+    <option name="typing" path="Wrapping and Braces" hit="Wrap on typing" />
+    <option name="wrap" path="Wrapping and Braces" hit="Wrap on typing" />
+    <option name="always" path="Punctuation" hit="always" />
+    <option name="double" path="Punctuation" hit="double" />
+    <option name="code" path="Punctuation" hit="in new code" />
+    <option name="in" path="Punctuation" hit="in new code" />
+    <option name="new" path="Punctuation" hit="in new code" />
+    <option name="single" path="Punctuation" hit="single" />
+  </configurable>
+  <configurable id="copyright.filetypes.MXML" configurable_name="Mxml">
+    <option name="add" hit="Add blank line after" />
+    <option name="after" hit="Add blank line after" />
+    <option name="blank" hit="Add blank line after" />
+    <option name="line" hit="Add blank line after" />
+    <option name="after" hit="After other comments" />
+    <option name="comments" hit="After other comments" />
+    <option name="other" hit="After other comments" />
+    <option name="before" hit="Before other comments" />
+    <option name="comments" hit="Before other comments" />
+    <option name="other" hit="Before other comments" />
+    <option name="borders" hit="Borders" />
+    <option name="box" hit="Box" />
+    <option name="comment" hit="Comment Type" />
+    <option name="type" hit="Comment Type" />
+    <option name="length" hit="Length:" />
+    <option name="mxml" hit="Mxml" />
+    <option name="copyright" hit="No copyright" />
+    <option name="no" hit="No copyright" />
+    <option name="each" hit="Prefix each line" />
+    <option name="line" hit="Prefix each line" />
+    <option name="prefix" hit="Prefix each line" />
+    <option name="location" hit="Relative Location" />
+    <option name="relative" hit="Relative Location" />
+    <option name="after" hit="Separator after" />
+    <option name="separator" hit="Separator after" />
+    <option name="before" hit="Separator before" />
+    <option name="separator" hit="Separator before" />
+    <option name="separator" hit="Separator:" />
+    <option name="block" hit="Use block comment" />
+    <option name="comment" hit="Use block comment" />
+    <option name="use" hit="Use block comment" />
+    <option name="custom" hit="Use custom formatting options" />
+    <option name="formatting" hit="Use custom formatting options" />
+    <option name="options" hit="Use custom formatting options" />
+    <option name="use" hit="Use custom formatting options" />
+    <option name="default" hit="Use default settings" />
+    <option name="settings" hit="Use default settings" />
+    <option name="use" hit="Use default settings" />
+    <option name="comment" hit="Use line comment" />
+    <option name="line" hit="Use line comment" />
+    <option name="use" hit="Use line comment" />
+  </configurable>
+  <configurable id="flex.compiler" configurable_name="ActionScript &amp; Flex Compiler">
+    <option name="" hit=" Mb" />
+    <option name="mb" hit=" Mb" />
+    <option name="actionscript" hit="ActionScript &amp; Flex Compiler" />
+    <option name="compiler" hit="ActionScript &amp; Flex Compiler" />
+    <option name="flex" hit="ActionScript &amp; Flex Compiler" />
+    <option name="built-in" hit="Built-in compiler shell" />
+    <option name="compiler" hit="Built-in compiler shell" />
+    <option name="shell" hit="Built-in compiler shell" />
+    <option name="compile" hit="Compile with:" />
+    <option name="with" hit="Compile with:" />
+    <option name="compiler" hit="Compiler heap size:" />
+    <option name="heap" hit="Compiler heap size:" />
+    <option name="size" hit="Compiler heap size:" />
+    <option name="compc" hit="Mxmlc/compc" />
+    <option name="mxmlc" hit="Mxmlc/compc" />
+    <option name="0" hit="Prefer ActionScript Compiler 2.0 for pure ActionScript build configurations" />
+    <option name="2" hit="Prefer ActionScript Compiler 2.0 for pure ActionScript build configurations" />
+    <option name="actionscript" hit="Prefer ActionScript Compiler 2.0 for pure ActionScript build configurations" />
+    <option name="build" hit="Prefer ActionScript Compiler 2.0 for pure ActionScript build configurations" />
+    <option name="compiler" hit="Prefer ActionScript Compiler 2.0 for pure ActionScript build configurations" />
+    <option name="configurations" hit="Prefer ActionScript Compiler 2.0 for pure ActionScript build configurations" />
+    <option name="for" hit="Prefer ActionScript Compiler 2.0 for pure ActionScript build configurations" />
+    <option name="prefer" hit="Prefer ActionScript Compiler 2.0 for pure ActionScript build configurations" />
+    <option name="pure" hit="Prefer ActionScript Compiler 2.0 for pure ActionScript build configurations" />
+    <option name="options" hit="VM options:" />
+    <option name="vm" hit="VM options:" />
+  </configurable>
+</options>
+

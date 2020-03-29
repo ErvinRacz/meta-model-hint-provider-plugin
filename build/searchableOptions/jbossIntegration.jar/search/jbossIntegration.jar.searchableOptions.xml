@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<options>
+  <configurable id="fileTemplates" configurable_name="File and Code Templates">
+    <option name="jboss-app_3_2" hit="jboss-app_3_2" />
+    <option name="jboss-app_4_0" hit="jboss-app_4_0" />
+    <option name="jboss-app_4_2" hit="jboss-app_4_2" />
+    <option name="jboss-app_5_0" hit="jboss-app_5_0" />
+    <option name="jboss-app_7_0" hit="jboss-app_7_0" />
+    <option name="jboss-deployment-structure_1_0" hit="jboss-deployment-structure_1_0" />
+    <option name="jboss-deployment-structure_1_1" hit="jboss-deployment-structure_1_1" />
+    <option name="jboss-deployment-structure_1_2" hit="jboss-deployment-structure_1_2" />
+    <option name="jboss-deployment-structure_1_3" hit="jboss-deployment-structure_1_3" />
+    <option name="jboss-web_10_0" hit="jboss-web_10_0" />
+    <option name="jboss-web_3_2" hit="jboss-web_3_2" />
+    <option name="jboss-web_4_0" hit="jboss-web_4_0" />
+    <option name="jboss-web_4_2" hit="jboss-web_4_2" />
+    <option name="jboss-web_5_0" hit="jboss-web_5_0" />
+    <option name="jboss-web_5_1" hit="jboss-web_5_1" />
+    <option name="jboss-web_6_0" hit="jboss-web_6_0" />
+    <option name="jboss-web_7_0" hit="jboss-web_7_0" />
+    <option name="jboss-web_7_1" hit="jboss-web_7_1" />
+    <option name="jboss-web_7_2" hit="jboss-web_7_2" />
+    <option name="jboss-web_8_0" hit="jboss-web_8_0" />
+    <option name="jboss_3_2" hit="jboss_3_2" />
+    <option name="jboss_4_0" hit="jboss_4_0" />
+    <option name="jboss_4_2" hit="jboss_4_2" />
+    <option name="jboss_5_0" hit="jboss_5_0" />
+    <option name="jboss_6_0" hit="jboss_6_0" />
+    <option name="jbosscmp-jdbc_3_2" hit="jbosscmp-jdbc_3_2" />
+    <option name="jbosscmp-jdbc_4_0" hit="jbosscmp-jdbc_4_0" />
+    <option name="jbosscmp-jdbc_4_2" hit="jbosscmp-jdbc_4_2" />
+  </configurable>
+</options>
+

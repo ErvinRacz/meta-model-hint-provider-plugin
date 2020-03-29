@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<options>
+  <configurable id="preferences.keymap" configurable_name="Keymap">
+    <option name="" path="ActionManager" hit="" />
+    <option name="from" path="ActionManager" hit="Generate Java From WADL" />
+    <option name="generate" path="ActionManager" hit="Generate Java From WADL" />
+    <option name="java" path="ActionManager" hit="Generate Java From WADL" />
+    <option name="wadl" path="ActionManager" hit="Generate Java From WADL" />
+    <option name="code" path="ActionManager" hit="Generate WADL From Java Code" />
+    <option name="from" path="ActionManager" hit="Generate WADL From Java Code" />
+    <option name="generate" path="ActionManager" hit="Generate WADL From Java Code" />
+    <option name="java" path="ActionManager" hit="Generate WADL From Java Code" />
+    <option name="wadl" path="ActionManager" hit="Generate WADL From Java Code" />
+    <option name="restful" path="ActionManager" hit="RESTful Web Service" />
+    <option name="service" path="ActionManager" hit="RESTful Web Service" />
+    <option name="web" path="ActionManager" hit="RESTful Web Service" />
+    <option name="client" path="ActionManager" hit="RESTful Web Service Client" />
+    <option name="restful" path="ActionManager" hit="RESTful Web Service Client" />
+    <option name="service" path="ActionManager" hit="RESTful Web Service Client" />
+    <option name="web" path="ActionManager" hit="RESTful Web Service Client" />
+  </configurable>
+  <configurable id="fileTemplates" configurable_name="File and Code Templates">
+    <option name="client" hit="default.webservice.rs.client" />
+    <option name="default" hit="default.webservice.rs.client" />
+    <option name="rs" hit="default.webservice.rs.client" />
+    <option name="webservice" hit="default.webservice.rs.client" />
+    <option name="cxf" hit="rest.cxf.webservice" />
+    <option name="rest" hit="rest.cxf.webservice" />
+    <option name="webservice" hit="rest.cxf.webservice" />
+    <option name="cxf" hit="rest.cxf.webservice.interface" />
+    <option name="interface" hit="rest.cxf.webservice.interface" />
+    <option name="rest" hit="rest.cxf.webservice.interface" />
+    <option name="webservice" hit="rest.cxf.webservice.interface" />
+    <option name="rest" hit="rest.webservice" />
+    <option name="webservice" hit="rest.webservice" />
+  </configurable>
+</options>
+

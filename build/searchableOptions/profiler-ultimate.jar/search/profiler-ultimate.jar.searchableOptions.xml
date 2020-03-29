@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<options>
+  <configurable id="profiler.jvm" configurable_name="Java Profiler">
+    <option name="" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      Don't add output format (collapsed is used) or output file options   " />
+    <option name="589df6" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      Don't add output format (collapsed is used) or output file options   " />
+    <option name="800080" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      Don't add output format (collapsed is used) or output file options   " />
+    <option name="a" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      Don't add output format (collapsed is used) or output file options   " />
+    <option name="active" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      Don't add output format (collapsed is used) or output file options   " />
+    <option name="add" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      Don't add output format (collapsed is used) or output file options   " />
+    <option name="collapsed" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      Don't add output format (collapsed is used) or output file options   " />
+    <option name="color" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      Don't add output format (collapsed is used) or output file options   " />
+    <option name="don" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      Don't add output format (collapsed is used) or output file options   " />
+    <option name="f00000" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      Don't add output format (collapsed is used) or output file options   " />
+    <option name="file" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      Don't add output format (collapsed is used) or output file options   " />
+    <option name="format" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      Don't add output format (collapsed is used) or output file options   " />
+    <option name="hover" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      Don't add output format (collapsed is used) or output file options   " />
+    <option name="is" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      Don't add output format (collapsed is used) or output file options   " />
+    <option name="link" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      Don't add output format (collapsed is used) or output file options   " />
+    <option name="options" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      Don't add output format (collapsed is used) or output file options   " />
+    <option name="or" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      Don't add output format (collapsed is used) or output file options   " />
+    <option name="output" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      Don't add output format (collapsed is used) or output file options   " />
+    <option name="t" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      Don't add output format (collapsed is used) or output file options   " />
+    <option name="used" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      Don't add output format (collapsed is used) or output file options   " />
+    <option name="visited" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      Don't add output format (collapsed is used) or output file options   " />
+    <option name="agent" hit="Agent options:" />
+    <option name="options" hit="Agent options:" />
+    <option name="agent" hit="Agent:" />
+    <option name="java" hit="Java Profiler" />
+    <option name="profiler" hit="Java Profiler" />
+    <option name="name" hit="Name:" />
+  </configurable>
+  <configurable id="profiler.calltree.filter" configurable_name="Filters">
+    <option name="filters" hit="Filters" />
+  </configurable>
+</options>
+

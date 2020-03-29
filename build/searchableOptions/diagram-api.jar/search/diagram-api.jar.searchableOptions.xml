@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<options>
+  <configurable id="preferences.keymap" configurable_name="Keymap">
+    <option name="collapse" path="ActionManager" hit="Collapse Nodes" />
+    <option name="nodes" path="ActionManager" hit="Collapse Nodes" />
+    <option name="expand" path="ActionManager" hit="Expand Nodes" />
+    <option name="nodes" path="ActionManager" hit="Expand Nodes" />
+    <option name="for" path="ActionManager" hit="Show Intentions for Node" />
+    <option name="intentions" path="ActionManager" hit="Show Intentions for Node" />
+    <option name="node" path="ActionManager" hit="Show Intentions for Node" />
+    <option name="show" path="ActionManager" hit="Show Intentions for Node" />
+  </configurable>
+  <configurable id="reference.settingsdialog.IDE.editor.colors.Diagrams" configurable_name="Diagrams">
+    <option name="diagrams" hit="Diagrams" />
+    <option name="annotation" hit="Annotation edge" />
+    <option name="edge" hit="Annotation edge" />
+    <option name="default" hit="Default edge" />
+    <option name="edge" hit="Default edge" />
+    <option name="edge" hit="Generalization edge" />
+    <option name="generalization" hit="Generalization edge" />
+    <option name="class" hit="Inner class edge" />
+    <option name="edge" hit="Inner class edge" />
+    <option name="inner" hit="Inner class edge" />
+    <option name="background" hit="Node background" />
+    <option name="node" hit="Node background" />
+    <option name="header" hit="Node header" />
+    <option name="node" hit="Node header" />
+    <option name="background" hit="Note background" />
+    <option name="note" hit="Note background" />
+    <option name="border" hit="Note border" />
+    <option name="note" hit="Note border" />
+    <option name="edge" hit="Realization edge" />
+    <option name="realization" hit="Realization edge" />
+  </configurable>
+</options>
+

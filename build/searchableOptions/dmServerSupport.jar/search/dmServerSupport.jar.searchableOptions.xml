@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<options>
+  <configurable id="preferences.keymap" configurable_name="Keymap">
+    <option name="libraries" path="ActionManager" hit="Manage Server Libraries..." />
+    <option name="manage" path="ActionManager" hit="Manage Server Libraries..." />
+    <option name="server" path="ActionManager" hit="Manage Server Libraries..." />
+  </configurable>
+  <configurable id="fileTemplates" configurable_name="File and Code Templates">
+    <option name="module-context" hit="module-context" />
+    <option name="osgi-context" hit="osgi-context" />
+  </configurable>
+</options>
+

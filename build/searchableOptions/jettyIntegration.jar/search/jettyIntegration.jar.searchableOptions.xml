@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<options>
+  <configurable id="fileTemplates" configurable_name="File and Code Templates">
+    <option name="jetty-web_6_x" hit="jetty-web_6_x" />
+    <option name="jetty-web_7_x" hit="jetty-web_7_x" />
+    <option name="jetty-web_9_0" hit="jetty-web_9_0" />
+    <option name="jetty-web_9_3" hit="jetty-web_9_3" />
+  </configurable>
+</options>
+

@@ -1,0 +1,23 @@
+<conversion>
+  <applied-converters>
+    <converter id="DockerRunConfigurationConverterProvider" />
+    <converter id="google-app-engine-facet" />
+    <converter id="kotlin-non-jvm-source-roots" />
+    <converter id="junit-to-android-junit-configurations" />
+    <converter id="android-sdk-library" />
+    <converter id="android-module-to-java-module" />
+    <converter id="android-proguard-options" />
+  </applied-converters>
+  <project-files>
+    <file path="/home/ervinracz/Workspace/jsf-test/.idea/workspace.xml" timestamp="1585469458629" />
+    <file path="/home/ervinracz/Workspace/jsf-test/.idea/artifacts/untitled_ejb_exploded.xml" timestamp="1585469396025" />
+    <file path="/home/ervinracz/Workspace/jsf-test/.idea/libraries/JPA_2_2_2_2.xml" timestamp="1585469396057" />
+    <file path="/home/ervinracz/Workspace/jsf-test/.idea/misc.xml" timestamp="1585429239328" />
+    <file path="/home/ervinracz/Workspace/jsf-test/jsf-test.iml" timestamp="1585429239308" />
+    <file path="/home/ervinracz/Workspace/jsf-test/.idea/libraries/EJB_3_2_2.xml" timestamp="1585469396053" />
+    <file path="/home/ervinracz/Workspace/jsf-test/.idea/libraries/PrimeFaces_6_1.xml" timestamp="1585429722972" />
+    <file path="/home/ervinracz/Workspace/jsf-test/.idea/artifacts/untitled_ear_exploded.xml" timestamp="1585469396017" />
+    <file path="/home/ervinracz/Workspace/jsf-test/.idea/modules.xml" timestamp="1585469445165" />
+    <file path="/home/ervinracz/Workspace/jsf-test/.idea/libraries/Mojarra_2_4_0.xml" timestamp="1585429722968" />
+  </project-files>
+</conversion>
