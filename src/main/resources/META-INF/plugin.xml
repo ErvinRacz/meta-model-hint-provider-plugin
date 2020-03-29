@@ -1,11 +1,14 @@
 <idea-plugin>
     <id>com.ervinracz.MetaModelHintProviderPlugin</id>
-    <name>Plugin display name here</name>
-    <vendor email="support@yourcompany.com" url="http://www.yourcompany.com">YourCompany</vendor>
+    <name>JSF-EL-metamodel-hints</name>
+    <vendor email="rcz.ervin@gmail.com" url="https://github.com/ErvinRacz/metamodel-hint-provider-plugin">Ervin Racz</vendor>
 
     <description><![CDATA[
-    Enter short description for your plugin here.<br>
-    <em>most HTML tags may be used</em>
+    Allows to see autocompletion for static entity metamodels in JSF EL.<br>
+    This plugin makes easier to fill in the 'field', 'sortBy' and 'filterBy' attributes
+    in column components from frameworks like PrimeFaces.
+    Installing this plugin you will get autocompletion for the earlier mentioned attributes from the pre-generated static metamodel for entities<br>
+    To use it you have to generate the static metamodel classes annotated with 'javax.persistence.metamodel.StaticMetamodel' annotation.<br>
     ]]></description>
 
     <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html

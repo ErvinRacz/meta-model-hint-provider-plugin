@@ -6,21 +6,13 @@ import com.intellij.model.SymbolResolveResult;
 import com.intellij.openapi.project.Project;
 import com.intellij.openapi.util.TextRange;
 import com.intellij.psi.*;
-import com.intellij.psi.impl.source.jsp.el.impl.ELVariableImpl;
-import com.intellij.psi.impl.source.jsp.el.impl.ElVariablesProvider;
-import com.intellij.psi.impl.source.jsp.jspXml.JspElementFactory;
-import com.intellij.psi.jsp.el.ELVariable;
-import com.intellij.psi.tree.jsp.el.IELElementType;
 import com.intellij.util.IncorrectOperationException;
 import org.apache.commons.lang3.StringUtils;
-import org.assertj.core.util.Lists;
 import org.jetbrains.annotations.NotNull;
 import org.jetbrains.annotations.Nullable;
-import org.jsoup.internal.StringUtil;
 
 import java.util.Arrays;
 import java.util.Collection;
-import java.util.List;
 import java.util.NoSuchElementException;
 
 public class MetamodelAttributeReference extends PsiReferenceBase<PsiElement> implements PsiPolyVariantReference {
@@ -29,16 +21,6 @@ public class MetamodelAttributeReference extends PsiReferenceBase<PsiElement> im
     private String searchKey;
     private String metamodelClassName;
 
-    /**
-     * public static volatile SingularAttribute<Pet, Long> id;
-     * public static volatile SingularAttribute<Pet, String> name;
-     * public static volatile SingularAttribute<Pet, String> color;
-     * public static volatile SetAttribute<Pet, Owner> owners;
-     *
-     * @param element
-     * @param rangeInElement
-     * @param metamodelClassName
-     */
     public MetamodelAttributeReference(@NotNull PsiElement element, TextRange rangeInElement, @NotNull String metamodelClassName) {
         super(element, rangeInElement);
         this.searchKey = element.getText().substring(rangeInElement.getStartOffset(), rangeInElement.getEndOffset());
